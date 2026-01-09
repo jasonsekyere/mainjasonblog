@@ -1,0 +1,106 @@
+{
+  "generated_at": "2026-01-09T09:09:50.974853",
+  "track_count": 10,
+  "tracks": [
+    {
+      "id": "5FSvy2wYKnurBi0Nq3wR9F",
+      "name": "Punk Rocky",
+      "artist": "A$AP Rocky",
+      "album": "Punk Rocky",
+      "popularity": 69,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27376b996c684f6678357b4c7ec",
+      "spotify_url": "https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "36T0zLipTSOXQrY8oFBAvT",
+      "name": "MI GATA",
+      "artist": "Junior H, Gael Valenzuela",
+      "album": "MI GATA",
+      "popularity": 65,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273ec0a6ecc5ad09f08b31d39f3",
+      "spotify_url": "https://open.spotify.com/track/36T0zLipTSOXQrY8oFBAvT",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "6ZzUmrPFLDuMM51uuVSb0h",
+      "name": "I Know Where Mark Chen Lives",
+      "artist": "Joyce Manor",
+      "album": "I Know Where Mark Chen Lives",
+      "popularity": 40,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273cce55e607672beec7a6e5245",
+      "spotify_url": "https://open.spotify.com/track/6ZzUmrPFLDuMM51uuVSb0h",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "4jP7Eh55rn0buD5c2Cknmj",
+      "name": "Plush",
+      "artist": "DJ Seinfeld",
+      "album": "Plush",
+      "popularity": 34,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2733a30cde7e100003ae8230db7",
+      "spotify_url": "https://open.spotify.com/track/4jP7Eh55rn0buD5c2Cknmj",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "1lsITIBuXbG6e6LJqWZqM1",
+      "name": "In Your Ocean",
+      "artist": "Iron & Wine",
+      "album": "In Your Ocean",
+      "popularity": 11,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273a2b1da974d035ebcd7502470",
+      "spotify_url": "https://open.spotify.com/track/1lsITIBuXbG6e6LJqWZqM1",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "3wS3axElohYztqGgvwxJX3",
+      "name": "FIRST CLASS LANDING.",
+      "artist": "AntsLive, Knucks, Bawo",
+      "album": "FIRST CLASS LANDING.",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273611bae8902f08e6402825dba",
+      "spotify_url": "https://open.spotify.com/track/3wS3axElohYztqGgvwxJX3",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "4hcMQJ8MInQQjm7r1sFBuv",
+      "name": "Who Coppin'",
+      "artist": "Larry June",
+      "album": "Who Coppin'",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2737c53632b01c637e3eff12658",
+      "spotify_url": "https://open.spotify.com/track/4hcMQJ8MInQQjm7r1sFBuv",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "2BCTfnyOqyEq4CmZ3aPjEj",
+      "name": "Mightjuss",
+      "artist": "Finessekid, Lancey Foux",
+      "album": "Mightjuss",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2732418142de21b9767be6b8026",
+      "spotify_url": "https://open.spotify.com/track/2BCTfnyOqyEq4CmZ3aPjEj",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "6CrpAztWyhMb4Ve2kcg5sK",
+      "name": "LiFE 4 A LiFE",
+      "artist": "IDK, Pusha T",
+      "album": "LiFE 4 A LiFE",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27311ea33ef814aabd14bc6c688",
+      "spotify_url": "https://open.spotify.com/track/6CrpAztWyhMb4Ve2kcg5sK",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "5Bd3rjV4fCqjiFU3XJM8VI",
+      "name": "Podcasters",
+      "artist": "On The Radar, Dairius Alexander, Ugly Money Niche",
+      "album": "Dairius Alexander \"On The Radar\"",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2732df4ac165b226e13c4daadb3",
+      "spotify_url": "https://open.spotify.com/track/5Bd3rjV4fCqjiFU3XJM8VI",
+      "playlist_source": "Release Radar"
+    }
+  ]
+}
