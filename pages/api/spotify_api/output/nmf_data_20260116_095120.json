@@ -1,0 +1,106 @@
+{
+  "generated_at": "2026-01-16T09:51:22.306218",
+  "track_count": 10,
+  "tracks": [
+    {
+      "id": "5IMpnpD0tQVcqWlVIgtAtV",
+      "name": "iloveitiloveitiloveit",
+      "artist": "Bella Kay",
+      "album": "iloveitiloveitiloveit",
+      "popularity": 61,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273ce4abadeadb4f56458cc6390",
+      "spotify_url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "24TSN5Uo9nyALzxWCJPuSe",
+      "name": "NOTHING IS REAL",
+      "artist": "DESTIN CONRAD, Terrace Martin",
+      "album": "NOTHING IS REAL",
+      "popularity": 36,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273f11a15be6b9e2bbbcc436b0e",
+      "spotify_url": "https://open.spotify.com/track/24TSN5Uo9nyALzxWCJPuSe",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "3cd7iKlNj6OqRkEuMqVnYs",
+      "name": "L.U.C.K.Y",
+      "artist": "Fcukers",
+      "album": "L.U.C.K.Y",
+      "popularity": 35,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2730a1b96bb8276ba8def63dea0",
+      "spotify_url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "1kdHE79HtKUGmJ1vDyp69j",
+      "name": "2SIDED",
+      "artist": "Arlo Parks",
+      "album": "2SIDED",
+      "popularity": 30,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2733ef8dd5947d904f88ea78d1c",
+      "spotify_url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "1nD3K6W0atK00pbJXS6JRa",
+      "name": "100",
+      "artist": "Ella Mai",
+      "album": "100",
+      "popularity": 22,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27378d5e60999afcaadad173f73",
+      "spotify_url": "https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "4UGXcwL1bxiA89KEjQ0kqd",
+      "name": "WICKMAN WICK THE WIZARD",
+      "artist": "Shawny Binladen",
+      "album": "WICK THE WIZARD 2",
+      "popularity": 23,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273757f8f70cd20807a702288c5",
+      "spotify_url": "https://open.spotify.com/track/4UGXcwL1bxiA89KEjQ0kqd",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "1jux3g1YXNub0NkYbLTLIp",
+      "name": "ORDER OF PROTECTION",
+      "artist": "A$AP Rocky",
+      "album": "Don't Be Dumb",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
+      "spotify_url": "https://open.spotify.com/track/1jux3g1YXNub0NkYbLTLIp",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "4jg24p9fO117Vr2RdgdMzf",
+      "name": "Sexy",
+      "artist": "Fivio Foreign, Lil Tjay, Tory Lanez",
+      "album": "Sexy",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2731cd329c34b8f45210399944a",
+      "spotify_url": "https://open.spotify.com/track/4jg24p9fO117Vr2RdgdMzf",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "1VGMwEjygnY5Q4cqBgvWDW",
+      "name": "post a lil fit on the gram",
+      "artist": "MadeinTYO, Exotic Nino",
+      "album": "post a lil fit on the gram",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27320bacd4a75e467166fa6b0b6",
+      "spotify_url": "https://open.spotify.com/track/1VGMwEjygnY5Q4cqBgvWDW",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "5LJ6CVeQyUve7oOrRpwO8x",
+      "name": "Fake Jeezy",
+      "artist": "Maxo Kream, Denzel Curry, JPEGMAFIA",
+      "album": "Fake Jeezy",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2734a32f2992163461b2cd3b7de",
+      "spotify_url": "https://open.spotify.com/track/5LJ6CVeQyUve7oOrRpwO8x",
+      "playlist_source": "Release Radar"
+    }
+  ]
+}
