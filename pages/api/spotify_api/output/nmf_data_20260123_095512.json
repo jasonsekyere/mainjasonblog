@@ -1,0 +1,106 @@
+{
+  "generated_at": "2026-01-23T09:55:13.697853",
+  "track_count": 10,
+  "tracks": [
+    {
+      "id": "5VqWwnkDTHNz3oXdlh2jn7",
+      "name": "Imposter",
+      "artist": "Louis Tomlinson",
+      "album": "Imposter",
+      "popularity": 55,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2735706ca3266bce52a51f7e5bc",
+      "spotify_url": "https://open.spotify.com/track/5VqWwnkDTHNz3oXdlh2jn7",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "3KcmK26eTYJ3Rz1Vb8qs5Z",
+      "name": "Funeral",
+      "artist": "Dermot Kennedy",
+      "album": "Funeral",
+      "popularity": 46,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2732eea5af6fe3b29d50923c519",
+      "spotify_url": "https://open.spotify.com/track/3KcmK26eTYJ3Rz1Vb8qs5Z",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "5evBKaW1C74pRKBoQIyZ8C",
+      "name": "FLACKITO JODYE (feat. Tokischa)",
+      "artist": "A$AP Rocky, Tokischa",
+      "album": "Don't Be Dumb",
+      "popularity": 44,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27327b7133c976e8ae6c3add683",
+      "spotify_url": "https://open.spotify.com/track/5evBKaW1C74pRKBoQIyZ8C",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "1QGzywHvE2qoqqkFzANyYb",
+      "name": "In Violet",
+      "artist": "Searows",
+      "album": "In Violet",
+      "popularity": 22,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2733361d314adae09ada6e891d6",
+      "spotify_url": "https://open.spotify.com/track/1QGzywHvE2qoqqkFzANyYb",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "45Z3m6yazmAi4jZuW0tzW0",
+      "name": "Aperture",
+      "artist": "Harry Styles",
+      "album": "Aperture",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2736b10b937d94f055f8890cb62",
+      "spotify_url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "68uqUS5wIIZgSbnWwNEH9Q",
+      "name": "Teary Eyes (feat. Burna Boy)",
+      "artist": "YoungBoy Never Broke Again, Burna Boy",
+      "album": "Slime Cry",
+      "popularity": 64,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273a3d1711fdec774e107ad9fca",
+      "spotify_url": "https://open.spotify.com/track/68uqUS5wIIZgSbnWwNEH9Q",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "2BlNFzFGEt0YvxTU1rDb9E",
+      "name": "Sheets and Funnel",
+      "artist": "Chrisnxtdoor, Tony Shhnow",
+      "album": "Panasonic",
+      "popularity": 1,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b0ffcf09b0fdd5227b34db4e",
+      "spotify_url": "https://open.spotify.com/track/2BlNFzFGEt0YvxTU1rDb9E",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "0M7vL642nJgzTs6y9KxfRU",
+      "name": "Skyline View",
+      "artist": "Chrisnxtdoor, Nino Paid, Warhol.ss",
+      "album": "Panasonic",
+      "popularity": 1,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b0ffcf09b0fdd5227b34db4e",
+      "spotify_url": "https://open.spotify.com/track/0M7vL642nJgzTs6y9KxfRU",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "0XKjxLy23wMZ3zNNluXw0A",
+      "name": "VIBES",
+      "artist": "Rich The Kid, Blueface, DDG",
+      "album": "VIBES",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27367fae268b668b6d6cd1c124c",
+      "spotify_url": "https://open.spotify.com/track/0XKjxLy23wMZ3zNNluXw0A",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "4sJFW6APhXl5v7idGF3QWd",
+      "name": "LIT EFFECT [Feat. Bktherula & LAZER DIM 700]",
+      "artist": "Denzel Curry, The Scythe, Bktherula, LAZER DIM 700",
+      "album": "LIT EFFECT [Feat. Bktherula & LAZER DIM 700]",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27381cb3dd12fefe772797c938b",
+      "spotify_url": "https://open.spotify.com/track/4sJFW6APhXl5v7idGF3QWd",
+      "playlist_source": "Release Radar"
+    }
+  ]
+}
