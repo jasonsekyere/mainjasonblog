@@ -1,0 +1,106 @@
+{
+  "generated_at": "2026-01-30T10:06:52.539951",
+  "track_count": 10,
+  "tracks": [
+    {
+      "id": "1Uwq1uMR3GEY3KTLzZrRN2",
+      "name": "I Used To Go To This Bar",
+      "artist": "Joyce Manor",
+      "album": "I Used To Go To This Bar",
+      "popularity": 36,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2738a570d207937dfb8578ebdac",
+      "spotify_url": "https://open.spotify.com/track/1Uwq1uMR3GEY3KTLzZrRN2",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "2iyMHe42Q6bY0mKp29KaHw",
+      "name": "LIGHTS GO OUT",
+      "artist": "John Summit",
+      "album": "LIGHTS GO OUT",
+      "popularity": 28,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273db7ea2e1a08647404cff01ac",
+      "spotify_url": "https://open.spotify.com/track/2iyMHe42Q6bY0mKp29KaHw",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "6b2XjVTFSlEwonWbH1fIo3",
+      "name": "For The First Time, Again",
+      "artist": "Tyler Ballgame",
+      "album": "For The First Time, Again",
+      "popularity": 15,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273a4b79e77cd642b69834a93a0",
+      "spotify_url": "https://open.spotify.com/track/6b2XjVTFSlEwonWbH1fIo3",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "77zqs8ucHCSk5jh9TYec4b",
+      "name": "The Great Divide",
+      "artist": "Noah Kahan",
+      "album": "The Great Divide",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273a47374027a9f559917ba66ba",
+      "spotify_url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "0FlcmZ13DGRmscCroro9GO",
+      "name": "Body",
+      "artist": "Don Toliver",
+      "album": "OCTANE",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27322d78c55313a187559efd93b",
+      "spotify_url": "https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "4adsnTOqKiDg0d0zmGq0G7",
+      "name": "Lord Protect Me (feat. Roc Marciano)",
+      "artist": "The Alchemist, Budgie, Roc Marciano",
+      "album": "Lord Protect Me (feat. Roc Marciano)",
+      "popularity": 35,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27380ab11afbff7720161957993",
+      "spotify_url": "https://open.spotify.com/track/4adsnTOqKiDg0d0zmGq0G7",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "2TekScsqJyCJ6TO9Y32X09",
+      "name": "Amnesia",
+      "artist": "Sébastien Tellier, Kid Cudi",
+      "album": "Amnesia",
+      "popularity": 17,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2735a106cebdf8e97e6a710be33",
+      "spotify_url": "https://open.spotify.com/track/2TekScsqJyCJ6TO9Y32X09",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "0WKCK3NRq8u57PRHbB4SFL",
+      "name": "JordanxBell \"On The Radar\" Freestyle - intuition",
+      "artist": "On The Radar, JordanxBell",
+      "album": "JordanxBell \"On The Radar\" Freestyle (intuition)",
+      "popularity": 13,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2735128adbf1cc4a66386e4a040",
+      "spotify_url": "https://open.spotify.com/track/0WKCK3NRq8u57PRHbB4SFL",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "10uAFvQLbc8AuPvql4SExF",
+      "name": "BigAhKidz Freestyle",
+      "artist": "1900Rugrat",
+      "album": "Free(Style) Game",
+      "popularity": 4,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27372ee107498a6f9e2fb7cb264",
+      "spotify_url": "https://open.spotify.com/track/10uAFvQLbc8AuPvql4SExF",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "4D8EhdAPBtxxXWTwajdblG",
+      "name": "RIDIN",
+      "artist": "Tokischa",
+      "album": "RIDIN",
+      "popularity": 3,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273f7ad5bacd3c9e1ee338978ce",
+      "spotify_url": "https://open.spotify.com/track/4D8EhdAPBtxxXWTwajdblG",
+      "playlist_source": "Release Radar"
+    }
+  ]
+}
