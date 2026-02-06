@@ -1,0 +1,106 @@
+{
+  "generated_at": "2026-02-06T11:09:02.837031",
+  "track_count": 10,
+  "tracks": [
+    {
+      "id": "1VVlFu2NkLFMRBznBITlho",
+      "name": "I'll Change for You",
+      "artist": "Mitski",
+      "album": "I'll Change for You",
+      "popularity": 53,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27340b98690bea485380a98a9da",
+      "spotify_url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "6CtUVW0IkBCejttSw9Bgdi",
+      "name": "Party At My Place",
+      "artist": "xaviersobased",
+      "album": "Xavier",
+      "popularity": 40,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2737fac6e9ecd9ba4448c8d250f",
+      "spotify_url": "https://open.spotify.com/track/6CtUVW0IkBCejttSw9Bgdi",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "2L8V5ufkP4ZzBBqjVBE2SW",
+      "name": "Flood (feat. Bon Iver)",
+      "artist": "Dua Saleh, Bon Iver",
+      "album": "Flood / Glow",
+      "popularity": 38,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2738646ff6185165281e0cfcbd2",
+      "spotify_url": "https://open.spotify.com/track/2L8V5ufkP4ZzBBqjVBE2SW",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "4zgFh0ZXkVcyXpJbteYviU",
+      "name": "Heaven",
+      "artist": "Arlo Parks",
+      "album": "Heaven",
+      "popularity": 38,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273e7984d153dcc387a183c1343",
+      "spotify_url": "https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "7tICCrK3CcyRFKza7yrR0z",
+      "name": "Homewrecker",
+      "artist": "sombr",
+      "album": "Homewrecker",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2731043eb41c9c8b1db0210c653",
+      "spotify_url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "0TDb4Oh4JQ8KYnYMYv8Ekd",
+      "name": "WaddupDoe",
+      "artist": "Tone Tone, Skilla Baby, Icewear Vezzo, Peezy, Allstar JR, Gmac Cash",
+      "album": "WaddupDoe",
+      "popularity": 9,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2739ac154b7c859b1dc0699cd06",
+      "spotify_url": "https://open.spotify.com/track/0TDb4Oh4JQ8KYnYMYv8Ekd",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "3gD92w8CgzEWV6e2bqgxzq",
+      "name": "Happy Together",
+      "artist": "The Mighty Rootsmen, Toots & The Maytals, Mykal Rose, Gregory Isaacs",
+      "album": "Happy Together",
+      "popularity": 4,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27359850f183f0332cf982d8245",
+      "spotify_url": "https://open.spotify.com/track/3gD92w8CgzEWV6e2bqgxzq",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "3YklYihQWWUR2UoeupRp6H",
+      "name": "Fragments (with Don Toliver)",
+      "artist": "Joji, Don Toliver",
+      "album": "Piss In The Wind",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27304316985c2c333c86874dad3",
+      "spotify_url": "https://open.spotify.com/track/3YklYihQWWUR2UoeupRp6H",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "32z1M6cy9TXCb4TYTk98IU",
+      "name": "Low.bō’s interlude",
+      "artist": "Voodis, Low.bō",
+      "album": "Tree of Hearts",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273cd7708a868f4884451cc16ce",
+      "spotify_url": "https://open.spotify.com/track/32z1M6cy9TXCb4TYTk98IU",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "4SopCbCvrRcklNv0N1c8WF",
+      "name": "Not Ordinary",
+      "artist": "ILLENIUM, Kid Cudi",
+      "album": "ODYSSEY",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273eaf13db31cac3e45c24aaaca",
+      "spotify_url": "https://open.spotify.com/track/4SopCbCvrRcklNv0N1c8WF",
+      "playlist_source": "Release Radar"
+    }
+  ]
+}

@@ -1,512 +1,512 @@
 {
   "new_music_friday": [
     {
-      "id": "77zqs8ucHCSk5jh9TYec4b",
-      "name": "The Great Divide",
+      "id": "7tICCrK3CcyRFKza7yrR0z",
+      "name": "Homewrecker",
+      "artist": "sombr",
+      "album": "",
+      "popularity": 0,
+      "album_art_url": null,
+      "spotify_url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
+    },
+    {
+      "id": "57ENogEkvFsU7Wmt3lvQMG",
+      "name": "Two Six",
       "artist": "E",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
+      "spotify_url": "https://open.spotify.com/track/57ENogEkvFsU7Wmt3lvQMG"
     },
     {
-      "id": "0FlcmZ13DGRmscCroro9GO",
-      "name": "Body",
+      "id": "0haXcqxsgfbGTq6OYjLyIs",
+      "name": "Hotel California",
       "artist": "E",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO"
+      "spotify_url": "https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs"
     },
     {
-      "id": "04ld6agKMq46IDG1THZqTe",
-      "name": "POSSESSION",
-      "artist": "Melanie Martinez",
-      "album": "",
-      "popularity": 0,
-      "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/04ld6agKMq46IDG1THZqTe"
-    },
-    {
-      "id": "7FudQLDIYCX6F7ruexVn2X",
-      "name": "Dandelion",
-      "artist": "Ella Langley",
-      "album": "",
-      "popularity": 0,
-      "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/7FudQLDIYCX6F7ruexVn2X"
-    },
-    {
-      "id": "2iyMHe42Q6bY0mKp29KaHw",
-      "name": "LIGHTS GO OUT",
+      "id": "5yvVYFDUpbnjcnRBgjwTzM",
+      "name": "Dracula - JENNIE Remix",
       "artist": "E",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/2iyMHe42Q6bY0mKp29KaHw"
+      "spotify_url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
     },
     {
-      "id": "0R4jt27SnKZ4Z4zGHJF36E",
-      "name": "Poema",
+      "id": "024GxR7aMUMCPtp8Y3c1zn",
+      "name": "Drive Safe",
+      "artist": "Myles Smith, Niall Horan",
+      "album": "",
+      "popularity": 0,
+      "album_art_url": null,
+      "spotify_url": "https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn"
+    },
+    {
+      "id": "7ufzuyyhu3u2vf78deWa9g",
+      "name": "Cloud 9",
+      "artist": "Megan Moroney",
+      "album": "",
+      "popularity": 0,
+      "album_art_url": null,
+      "spotify_url": "https://open.spotify.com/track/7ufzuyyhu3u2vf78deWa9g"
+    },
+    {
+      "id": "1VVlFu2NkLFMRBznBITlho",
+      "name": "I'll Change for You",
+      "artist": "Mitski",
+      "album": "",
+      "popularity": 0,
+      "album_art_url": null,
+      "spotify_url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
+    },
+    {
+      "id": "7Dev2VJdJKwIIUdj3lcQl9",
+      "name": "Release The Pressure",
+      "artist": "Calvin Harris, Kasabian",
+      "album": "",
+      "popularity": 0,
+      "album_art_url": null,
+      "spotify_url": "https://open.spotify.com/track/7Dev2VJdJKwIIUdj3lcQl9"
+    },
+    {
+      "id": "28NKduvWszfoQSU3k5p7vg",
+      "name": "Omens",
       "artist": "E",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/0R4jt27SnKZ4Z4zGHJF36E"
+      "spotify_url": "https://open.spotify.com/track/28NKduvWszfoQSU3k5p7vg"
     },
     {
-      "id": "1tNCeieDWM4H5miALnbTbb",
-      "name": "Debris",
+      "id": "0JWgArA3FO5l0JQdi4d6O1",
+      "name": "Y si peleamos",
+      "artist": "Easykid, Kali Uchis",
+      "album": "",
+      "popularity": 0,
+      "album_art_url": null,
+      "spotify_url": "https://open.spotify.com/track/0JWgArA3FO5l0JQdi4d6O1"
+    },
+    {
+      "id": "16qnkRmdN75LgttNSXIxAa",
+      "name": "Might Just",
       "artist": "E",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/1tNCeieDWM4H5miALnbTbb"
+      "spotify_url": "https://open.spotify.com/track/16qnkRmdN75LgttNSXIxAa"
     },
     {
-      "id": "055T1TvSjL24CTUfTHSZs7",
-      "name": "I Did This To Myself",
+      "id": "2L8V5ufkP4ZzBBqjVBE2SW",
+      "name": "Flood (feat. Bon Iver)",
+      "artist": "Dua Saleh, Bon Iver",
+      "album": "",
+      "popularity": 0,
+      "album_art_url": null,
+      "spotify_url": "https://open.spotify.com/track/2L8V5ufkP4ZzBBqjVBE2SW"
+    },
+    {
+      "id": "52CDVCBt7tQI29r9ovQOJt",
+      "name": "My Regards",
+      "artist": "Maisie Peters",
+      "album": "",
+      "popularity": 0,
+      "album_art_url": null,
+      "spotify_url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
+    },
+    {
+      "id": "4zgFh0ZXkVcyXpJbteYviU",
+      "name": "Heaven",
+      "artist": "Arlo Parks",
+      "album": "",
+      "popularity": 0,
+      "album_art_url": null,
+      "spotify_url": "https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"
+    },
+    {
+      "id": "0ddLd0n19FHwawkSmhXwgg",
+      "name": "Don't Want Your Love",
+      "artist": "ILLENIUM, Ellie Goulding",
+      "album": "",
+      "popularity": 0,
+      "album_art_url": null,
+      "spotify_url": "https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg"
+    },
+    {
+      "id": "3zEGtcD7rSiT8OIHBsw1LF",
+      "name": "Over Now",
       "artist": "E",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7"
+      "spotify_url": "https://open.spotify.com/track/3zEGtcD7rSiT8OIHBsw1LF"
     },
     {
-      "id": "6yOHshc12fwMtM74xoy4je",
-      "name": "McArthur",
-      "artist": "HARDY, Eric Church, Morgan Wallen, Tim McGraw",
+      "id": "5cF1qDDpSg5oPJDGCMv57X",
+      "name": "heal something",
+      "artist": "Sasha Keable",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/6yOHshc12fwMtM74xoy4je"
+      "spotify_url": "https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X"
     },
     {
-      "id": "72fSEYOXmccGvk5GjiNtKX",
-      "name": "tell me what you want",
+      "id": "4iAvuDXVlF9eCzxQ3qNEpE",
+      "name": "Time Goes On",
+      "artist": "Koe Wetzel",
+      "album": "",
+      "popularity": 0,
+      "album_art_url": null,
+      "spotify_url": "https://open.spotify.com/track/4iAvuDXVlF9eCzxQ3qNEpE"
+    },
+    {
+      "id": "7GopuuJWfS8V67xSeKeV2Y",
+      "name": "Sweet To Me",
+      "artist": "Nick Jonas",
+      "album": "",
+      "popularity": 0,
+      "album_art_url": null,
+      "spotify_url": "https://open.spotify.com/track/7GopuuJWfS8V67xSeKeV2Y"
+    },
+    {
+      "id": "7L9Fgs88bbwSOIYGJHOIBs",
+      "name": "Love To Be Loved",
+      "artist": "The Warning, Carín León",
+      "album": "",
+      "popularity": 0,
+      "album_art_url": null,
+      "spotify_url": "https://open.spotify.com/track/7L9Fgs88bbwSOIYGJHOIBs"
+    },
+    {
+      "id": "2RlNVAciIcppSI1Iu10RDh",
+      "name": "golden boy",
+      "artist": "Freya Skye",
+      "album": "",
+      "popularity": 0,
+      "album_art_url": null,
+      "spotify_url": "https://open.spotify.com/track/2RlNVAciIcppSI1Iu10RDh"
+    },
+    {
+      "id": "15tkKpcwBE3XJhaBdLPBKJ",
+      "name": "Die For Me",
       "artist": "E",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/72fSEYOXmccGvk5GjiNtKX"
+      "spotify_url": "https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ"
     },
     {
-      "id": "5fWkhoVosVf0sRlGS4P9y5",
-      "name": "Still Sincere",
-      "artist": "MJ Cole, PinkPantheress",
-      "album": "",
-      "popularity": 0,
-      "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/5fWkhoVosVf0sRlGS4P9y5"
-    },
-    {
-      "id": "35Gc7ihva3XEo5gw8gazRa",
-      "name": "Feed the Streets",
+      "id": "6CtUVW0IkBCejttSw9Bgdi",
+      "name": "Party At My Place",
       "artist": "E",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/35Gc7ihva3XEo5gw8gazRa"
+      "spotify_url": "https://open.spotify.com/track/6CtUVW0IkBCejttSw9Bgdi"
     },
     {
-      "id": "0o1OygFF2qOOh5e3s7rNd1",
-      "name": "Shotta Flow 8",
-      "artist": "E",
+      "id": "4H2rI43vuXJuUrRIMxknzA",
+      "name": "COOK",
+      "artist": "SOFI TUKKER, J Balvin",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/0o1OygFF2qOOh5e3s7rNd1"
+      "spotify_url": "https://open.spotify.com/track/4H2rI43vuXJuUrRIMxknzA"
     },
     {
-      "id": "5dG34aa2xQK9WBbd2U8MAS",
-      "name": "Body Is On Fire",
-      "artist": "MARIS",
+      "id": "4mc8byHXW8rmZT5L5jwYG5",
+      "name": "Buenos Días",
+      "artist": "Eladio Carrion",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/5dG34aa2xQK9WBbd2U8MAS"
+      "spotify_url": "https://open.spotify.com/track/4mc8byHXW8rmZT5L5jwYG5"
     },
     {
-      "id": "5916POJDlPQRBbe1SJc7uK",
-      "name": "Good Girl",
-      "artist": "Paris Paloma",
+      "id": "0EMiZs5WHhVUpNc6dbQG1h",
+      "name": "Hang",
+      "artist": "Daphni",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/5916POJDlPQRBbe1SJc7uK"
+      "spotify_url": "https://open.spotify.com/track/0EMiZs5WHhVUpNc6dbQG1h"
     },
     {
-      "id": "3vzSGr8Anj3SLaMrp613Gm",
-      "name": "THEMSELVES",
-      "artist": "E",
+      "id": "3G0SQeuephtTBg5OZtXyRD",
+      "name": "Cry",
+      "artist": "Charlie Puth, Kenny G",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/3vzSGr8Anj3SLaMrp613Gm"
-    },
-    {
-      "id": "6b2XjVTFSlEwonWbH1fIo3",
-      "name": "For The First Time, Again",
-      "artist": "Tyler Ballgame",
-      "album": "",
-      "popularity": 0,
-      "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/6b2XjVTFSlEwonWbH1fIo3"
-    },
-    {
-      "id": "1cXe8OVF7fL9OyRWMFHytH",
-      "name": "professional heartbreaker",
-      "artist": "Artemas",
-      "album": "",
-      "popularity": 0,
-      "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/1cXe8OVF7fL9OyRWMFHytH"
-    },
-    {
-      "id": "55QDC1UHFcqlnH0xSvvB7T",
-      "name": "EVERYWHERE I GO (REMIND ME) feat. Kid Cudi",
-      "artist": "E",
-      "album": "",
-      "popularity": 0,
-      "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/55QDC1UHFcqlnH0xSvvB7T"
-    },
-    {
-      "id": "4mVZ9cv6pGt36VNjm6CTue",
-      "name": "fml .",
-      "artist": "E",
-      "album": "",
-      "popularity": 0,
-      "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/4mVZ9cv6pGt36VNjm6CTue"
-    },
-    {
-      "id": "2PB2qWeMiyDPHXIz8AwzSs",
-      "name": "DON JULIO LEMONADE",
-      "artist": "E",
-      "album": "",
-      "popularity": 0,
-      "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/2PB2qWeMiyDPHXIz8AwzSs"
-    },
-    {
-      "id": "4AB8v3vtDk8fJmLU5UdeSr",
-      "name": "Numbers 31:17-18",
-      "artist": "E",
-      "album": "",
-      "popularity": 0,
-      "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/4AB8v3vtDk8fJmLU5UdeSr"
-    },
-    {
-      "id": "1Uwq1uMR3GEY3KTLzZrRN2",
-      "name": "I Used To Go To This Bar",
-      "artist": "Joyce Manor",
-      "album": "",
-      "popularity": 0,
-      "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/1Uwq1uMR3GEY3KTLzZrRN2"
-    },
-    {
-      "id": "2qVqEzl038sc3Br5pp9b8K",
-      "name": "Speakers Blowing",
-      "artist": "Funk Tribu",
-      "album": "",
-      "popularity": 0,
-      "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/2qVqEzl038sc3Br5pp9b8K"
-    },
-    {
-      "id": "7q8sg6yXIJZG6YdW1QgdOY",
-      "name": "triston",
-      "artist": "E",
-      "album": "",
-      "popularity": 0,
-      "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/7q8sg6yXIJZG6YdW1QgdOY"
-    },
-    {
-      "id": "57ZFmLushr2mLmY1NMoZwI",
-      "name": "Two Car Garage",
-      "artist": "Jon Bellion, Swae Lee, FANDOM",
-      "album": "",
-      "popularity": 0,
-      "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/57ZFmLushr2mLmY1NMoZwI"
-    },
-    {
-      "id": "5qUybX88YaxhC3e8zD4BBn",
-      "name": "Dry County",
-      "artist": "Tyler Braden",
-      "album": "",
-      "popularity": 0,
-      "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/5qUybX88YaxhC3e8zD4BBn"
+      "spotify_url": "https://open.spotify.com/track/3G0SQeuephtTBg5OZtXyRD"
     }
   ],
   "release_radar": [
     {
-      "id": "6h14Fku2V8SCYY5SWjcAbm",
-      "name": "Major Leagues",
+      "id": "3YklYihQWWUR2UoeupRp6H",
+      "name": "Fragments (with Don Toliver)",
       "artist": "E",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/6h14Fku2V8SCYY5SWjcAbm"
+      "spotify_url": "https://open.spotify.com/track/3YklYihQWWUR2UoeupRp6H"
     },
     {
-      "id": "1hUBHPrdjSaC1u73fgfltn",
-      "name": "LIKE A MOVIE",
-      "artist": "TrackMoney P, Larry June",
+      "id": "32z1M6cy9TXCb4TYTk98IU",
+      "name": "Low.bō’s interlude",
+      "artist": "Voodis, Low.bō",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/1hUBHPrdjSaC1u73fgfltn"
+      "spotify_url": "https://open.spotify.com/track/32z1M6cy9TXCb4TYTk98IU"
     },
     {
-      "id": "2TekScsqJyCJ6TO9Y32X09",
-      "name": "Amnesia",
-      "artist": "Sébastien Tellier, Kid Cudi",
+      "id": "4SopCbCvrRcklNv0N1c8WF",
+      "name": "Not Ordinary",
+      "artist": "ILLENIUM, Kid Cudi",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/2TekScsqJyCJ6TO9Y32X09"
+      "spotify_url": "https://open.spotify.com/track/4SopCbCvrRcklNv0N1c8WF"
     },
     {
-      "id": "4dkzTKWfifZOySh7nGTadV",
-      "name": "Can't Feel a Thing (feat. Skrilla & Hood Tali)",
+      "id": "5yvVYFDUpbnjcnRBgjwTzM",
+      "name": "Dracula - JENNIE Remix",
       "artist": "E",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/4dkzTKWfifZOySh7nGTadV"
+      "spotify_url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
     },
     {
-      "id": "41Lvsbnd0eSJB4R1bkdfOu",
-      "name": "Jump & Shout",
-      "artist": "HUGEL, Divolly & Markward",
-      "album": "",
-      "popularity": 0,
-      "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/41Lvsbnd0eSJB4R1bkdfOu"
-    },
-    {
-      "id": "50kTNbJkgMdRMUt7dXOr6t",
-      "name": "Muddy",
+      "id": "0dVySomrcJgF3kmeixgEEN",
+      "name": "For The Night (feat. Larry June & 1100 Himself)",
       "artist": "E",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/50kTNbJkgMdRMUt7dXOr6t"
+      "spotify_url": "https://open.spotify.com/track/0dVySomrcJgF3kmeixgEEN"
     },
     {
-      "id": "6ZUdxfXm45SKQ5WcFA2OGS",
-      "name": "Ibiza (feat. Blade Brown)",
-      "artist": "AJ Tracey, Blade Brown, Carns Hill",
-      "album": "",
-      "popularity": 0,
-      "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/6ZUdxfXm45SKQ5WcFA2OGS"
-    },
-    {
-      "id": "055T1TvSjL24CTUfTHSZs7",
-      "name": "I Did This To Myself",
+      "id": "1D4LurQkpescj2hkf8NG8Y",
+      "name": "Crawford Baby (feat. Skrilla)",
       "artist": "E",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7"
+      "spotify_url": "https://open.spotify.com/track/1D4LurQkpescj2hkf8NG8Y"
     },
     {
-      "id": "0Dv2OHtjjVSNMEfKWN8sfv",
-      "name": "Be Loos Muhubat",
-      "artist": "khalid",
+      "id": "23K8ZhF71pwVFsBzqdmNDm",
+      "name": "I WIN - feat. Wiz Khalifa",
+      "artist": "Upstates, Erik Charles, Wiz Khalifa",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/0Dv2OHtjjVSNMEfKWN8sfv"
+      "spotify_url": "https://open.spotify.com/track/23K8ZhF71pwVFsBzqdmNDm"
     },
     {
-      "id": "10uAFvQLbc8AuPvql4SExF",
-      "name": "BigAhKidz Freestyle",
+      "id": "28NKduvWszfoQSU3k5p7vg",
+      "name": "Omens",
       "artist": "E",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/10uAFvQLbc8AuPvql4SExF"
+      "spotify_url": "https://open.spotify.com/track/28NKduvWszfoQSU3k5p7vg"
     },
     {
-      "id": "1aR76UAZvKOuaJF9Q5kXZM",
-      "name": "CUTTI - BONUS",
+      "id": "12aDuEWQssj9nkCgZWsIB1",
+      "name": "1234",
       "artist": "E",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/1aR76UAZvKOuaJF9Q5kXZM"
+      "spotify_url": "https://open.spotify.com/track/12aDuEWQssj9nkCgZWsIB1"
     },
     {
-      "id": "0E5qrxehEzhaBVBJOZKsHi",
-      "name": "Squeeze First",
-      "artist": "Benny The Butcher, Grafh",
+      "id": "3kQfwrH3xDoC8G24CvcFMm",
+      "name": "What Do You Like",
+      "artist": "Bizzy Crook, Ty Dolla $ign",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/0E5qrxehEzhaBVBJOZKsHi"
+      "spotify_url": "https://open.spotify.com/track/3kQfwrH3xDoC8G24CvcFMm"
     },
     {
-      "id": "2b0mgBjkEyIITxGRXBjZwF",
-      "name": "G Way",
+      "id": "2RzqhythK51IXmf8kDsJO1",
+      "name": "Splashin",
       "artist": "E",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/2b0mgBjkEyIITxGRXBjZwF"
+      "spotify_url": "https://open.spotify.com/track/2RzqhythK51IXmf8kDsJO1"
     },
     {
-      "id": "4N9nEO8B7rsEHVdeNO6Plw",
-      "name": "Dream Therapy (feat. Sampha) (George FitzGerald remix)",
-      "artist": "Oscar Farrell, Sampha, George FitzGerald",
-      "album": "",
-      "popularity": 0,
-      "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/4N9nEO8B7rsEHVdeNO6Plw"
-    },
-    {
-      "id": "0UbTNEp33rfhRrMgON4Jr3",
-      "name": "HONEY",
-      "artist": "Levi, Akon, Roy Woods, Halle Abadi",
-      "album": "",
-      "popularity": 0,
-      "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/0UbTNEp33rfhRrMgON4Jr3"
-    },
-    {
-      "id": "0XxhFeUJlam2ZQlZKT1fgJ",
-      "name": "Stomp The Yard",
+      "id": "2hXnkp4SKivcHV555G72yz",
+      "name": "Suspect x Fumez The Engineer - Plugged In",
       "artist": "E",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/0XxhFeUJlam2ZQlZKT1fgJ"
+      "spotify_url": "https://open.spotify.com/track/2hXnkp4SKivcHV555G72yz"
     },
     {
-      "id": "0hosgn2vnPwhPSC1X5BH1Z",
-      "name": "ME SINTO ATÉ JHONY",
+      "id": "71awA0BrnPCTF9nTBQ9MBK",
+      "name": "Oh My Jesus (feat. Key Glock)",
       "artist": "E",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/0hosgn2vnPwhPSC1X5BH1Z"
+      "spotify_url": "https://open.spotify.com/track/71awA0BrnPCTF9nTBQ9MBK"
     },
     {
-      "id": "1BOarRF8QAkyjjJD19Cl8K",
-      "name": "Planet Bass / NBLYB",
+      "id": "4lWmfD5DHlUA2ObZ8I8pZJ",
+      "name": "US OPEN",
       "artist": "E",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/1BOarRF8QAkyjjJD19Cl8K"
+      "spotify_url": "https://open.spotify.com/track/4lWmfD5DHlUA2ObZ8I8pZJ"
     },
     {
-      "id": "2YFwdFWoZp0qk1p2If6yMQ",
-      "name": "#DIRTY",
+      "id": "2y526hGkXuetJy3duEqIRq",
+      "name": "WOULDN'T HOLD YOU UP",
       "artist": "E",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/2YFwdFWoZp0qk1p2If6yMQ"
+      "spotify_url": "https://open.spotify.com/track/2y526hGkXuetJy3duEqIRq"
     },
     {
-      "id": "4bwMM1QSwiXFMxBViLityY",
-      "name": "Blow (Remix)",
+      "id": "5IJwyzbowfbvXlUB5pnwC0",
+      "name": "Don't Judge My Past",
       "artist": "E",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/4bwMM1QSwiXFMxBViLityY"
+      "spotify_url": "https://open.spotify.com/track/5IJwyzbowfbvXlUB5pnwC0"
     },
     {
-      "id": "5lVNQLvr89qXZFu2CyyLX4",
-      "name": "TRAFFIC",
+      "id": "0HtelFc6TxhZ61iGYA9dI3",
+      "name": "Just In Case",
+      "artist": "Marc E. Bassy, Nic Nac",
+      "album": "",
+      "popularity": 0,
+      "album_art_url": null,
+      "spotify_url": "https://open.spotify.com/track/0HtelFc6TxhZ61iGYA9dI3"
+    },
+    {
+      "id": "6WTEUiCwTxEqbw8o1dqLBn",
+      "name": "ROOFTOP",
+      "artist": "Hulvey, nobigdyl.",
+      "album": "",
+      "popularity": 0,
+      "album_art_url": null,
+      "spotify_url": "https://open.spotify.com/track/6WTEUiCwTxEqbw8o1dqLBn"
+    },
+    {
+      "id": "4Elh59m7WL8zLHxGd6rUgc",
+      "name": "Lasagna",
       "artist": "E",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/5lVNQLvr89qXZFu2CyyLX4"
+      "spotify_url": "https://open.spotify.com/track/4Elh59m7WL8zLHxGd6rUgc"
     },
     {
-      "id": "0WKCK3NRq8u57PRHbB4SFL",
-      "name": "JordanxBell \"On The Radar\" Freestyle - intuition",
+      "id": "08TbeeaebEMevwEyWtifQ5",
+      "name": "Prime 08 - LIVE \"On The Radar\" Performance",
       "artist": "E",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/0WKCK3NRq8u57PRHbB4SFL"
+      "spotify_url": "https://open.spotify.com/track/08TbeeaebEMevwEyWtifQ5"
     },
     {
-      "id": "2PB2qWeMiyDPHXIz8AwzSs",
-      "name": "DON JULIO LEMONADE",
+      "id": "11mDIi9MNeOXoeSqiYQnWI",
+      "name": "PANTI Y COLALE 2.0",
+      "artist": "El Alfa, De La Ghetto, Zion, DJ Chulo NYC, El Cherry Scom, La Greña, Ronny GTA,",
+      "album": "",
+      "popularity": 0,
+      "album_art_url": null,
+      "spotify_url": "https://open.spotify.com/track/11mDIi9MNeOXoeSqiYQnWI"
+    },
+    {
+      "id": "08MYCKp5hOvO392T957ZFA",
+      "name": "HER HER HER",
+      "artist": "Dyce",
+      "album": "",
+      "popularity": 0,
+      "album_art_url": null,
+      "spotify_url": "https://open.spotify.com/track/08MYCKp5hOvO392T957ZFA"
+    },
+    {
+      "id": "3WIV7gukpFbj7YotPoUVb2",
+      "name": "NOW OR NEVER II",
       "artist": "E",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/2PB2qWeMiyDPHXIz8AwzSs"
+      "spotify_url": "https://open.spotify.com/track/3WIV7gukpFbj7YotPoUVb2"
     },
     {
-      "id": "4adsnTOqKiDg0d0zmGq0G7",
-      "name": "Lord Protect Me (feat. Roc Marciano)",
+      "id": "0TDb4Oh4JQ8KYnYMYv8Ekd",
+      "name": "WaddupDoe",
       "artist": "E",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/4adsnTOqKiDg0d0zmGq0G7"
+      "spotify_url": "https://open.spotify.com/track/0TDb4Oh4JQ8KYnYMYv8Ekd"
     },
     {
-      "id": "43uvpEvaYB3jxp6TqIwzON",
-      "name": "Gas Station Love - remix",
-      "artist": "EJ Jones, BigXthaPlug",
-      "album": "",
-      "popularity": 0,
-      "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/43uvpEvaYB3jxp6TqIwzON"
-    },
-    {
-      "id": "2oEtPS2AEZSafl0oMKzJNa",
-      "name": "TINTED",
+      "id": "2h6zYUzAGc6LNE0jLkazkm",
+      "name": "Job's Not Done (feat. ERA)",
       "artist": "E",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/2oEtPS2AEZSafl0oMKzJNa"
+      "spotify_url": "https://open.spotify.com/track/2h6zYUzAGc6LNE0jLkazkm"
     },
     {
-      "id": "4D8EhdAPBtxxXWTwajdblG",
-      "name": "RIDIN",
-      "artist": "Tokischa",
-      "album": "",
-      "popularity": 0,
-      "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/4D8EhdAPBtxxXWTwajdblG"
-    },
-    {
-      "id": "48Ppng6VGGGJ9WxZgI9Ksi",
-      "name": "B!Tch",
+      "id": "48FvErNJAGrBTGPXHw41UZ",
+      "name": "TGIF - Lost Tapes 2022",
       "artist": "E",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/48Ppng6VGGGJ9WxZgI9Ksi"
+      "spotify_url": "https://open.spotify.com/track/48FvErNJAGrBTGPXHw41UZ"
     },
     {
-      "id": "1LEM1NmNAGTViQ3opXU4RZ",
-      "name": "Puddle of Mudd",
-      "artist": "Dru Kelly, Stix, Dom Mooney",
+      "id": "1QLg7U58jTBcF5MN2iz7KY",
+      "name": "ICON",
+      "artist": "E",
       "album": "",
       "popularity": 0,
       "album_art_url": null,
-      "spotify_url": "https://open.spotify.com/track/1LEM1NmNAGTViQ3opXU4RZ"
+      "spotify_url": "https://open.spotify.com/track/1QLg7U58jTBcF5MN2iz7KY"
+    },
+    {
+      "id": "4tvspo1jicYZKmES4efuzM",
+      "name": "A Month, A Week, A Day",
+      "artist": "The Jack Wharff Band, Solon Holt",
+      "album": "",
+      "popularity": 0,
+      "album_art_url": null,
+      "spotify_url": "https://open.spotify.com/track/4tvspo1jicYZKmES4efuzM"
+    },
+    {
+      "id": "3gD92w8CgzEWV6e2bqgxzq",
+      "name": "Happy Together",
+      "artist": "The Mighty Rootsmen, Toots & The Maytals, Mykal Rose, Gregory Isaacs",
+      "album": "",
+      "popularity": 0,
+      "album_art_url": null,
+      "spotify_url": "https://open.spotify.com/track/3gD92w8CgzEWV6e2bqgxzq"
     }
   ],
-  "scraped_at": "2026-01-30 10:06:40",
+  "scraped_at": "2026-02-06 11:08:51",
   "method": "enhanced_scraper"
 }
