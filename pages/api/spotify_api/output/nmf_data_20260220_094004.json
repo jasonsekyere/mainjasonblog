@@ -1,0 +1,106 @@
+{
+  "generated_at": "2026-02-20T09:40:05.941688",
+  "track_count": 10,
+  "tracks": [
+    {
+      "id": "7IM4xK4W4n06UAV48ZXMup",
+      "name": "White Feather Hawk Tail Deer Hunter",
+      "artist": "Lana Del Rey",
+      "album": "White Feather Hawk Tail Deer Hunter",
+      "popularity": 65,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2735137f42d1cbb2a831d56ff3f",
+      "spotify_url": "https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "7c5JxJWGMJqG0IYABA04WS",
+      "name": "She Knows Too Much",
+      "artist": "Thundercat, Mac Miller",
+      "album": "She Knows Too Much",
+      "popularity": 51,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273c8bb2873bdda4472abceb267",
+      "spotify_url": "https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "0TlcczkVTGpinpkGJpT81L",
+      "name": "Drag Path",
+      "artist": "Twenty One Pilots",
+      "album": "Drag Path",
+      "popularity": 49,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b5b991fd65053a3acb8c2db2",
+      "spotify_url": "https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "3xbZa70HOBQpGQcaR3HqW1",
+      "name": "Song Of The Future",
+      "artist": "U2",
+      "album": "Days Of Ash EP",
+      "popularity": 44,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273812b33a1e8945b1d99d3c5a1",
+      "spotify_url": "https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "5tC7DM52PIElQGpxnRVK5m",
+      "name": "ear to the cocoon",
+      "artist": "WILLOW",
+      "album": "petal rock black",
+      "popularity": 35,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273e6f7c005aa11694c544ab52e",
+      "spotify_url": "https://open.spotify.com/track/5tC7DM52PIElQGpxnRVK5m",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "7ftVVroVtQXFtB5fwrfl2T",
+      "name": "Daily Duppy (feat. GRM Daily)",
+      "artist": "Kidwild, GRM Daily",
+      "album": "Daily Duppy (feat. GRM Daily)",
+      "popularity": 43,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273ef2c3a0ab079d6e3a987c21c",
+      "spotify_url": "https://open.spotify.com/track/7ftVVroVtQXFtB5fwrfl2T",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "2gj9kPj4NKuwOQhGV3rDsM",
+      "name": "BLOCK PARTY",
+      "artist": "Hit-Boy",
+      "album": "BLOCK PARTY",
+      "popularity": 26,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27379782f232a9bc77a76122c1a",
+      "spotify_url": "https://open.spotify.com/track/2gj9kPj4NKuwOQhGV3rDsM",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "53MQ5zpcMvdr5kkt2a6a6n",
+      "name": "Brotherhood",
+      "artist": "Bear McCreary, Logic",
+      "album": "God of War Sons of Sparta (Original Soundtrack)",
+      "popularity": 14,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273793278acba4d502d589c8cbe",
+      "spotify_url": "https://open.spotify.com/track/53MQ5zpcMvdr5kkt2a6a6n",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "4L9tN302XDGPuUoZpIMKav",
+      "name": "IS IT BETTER?",
+      "artist": "Ye Vandross, DESTA.",
+      "album": "IS IT BETTER?",
+      "popularity": 1,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273655ce1f7afa99017a5bf7801",
+      "spotify_url": "https://open.spotify.com/track/4L9tN302XDGPuUoZpIMKav",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "0WvXo8baZTYARlNuE76rlr",
+      "name": "Stars On The Roof",
+      "artist": "Larry June, Curren$y, The Alchemist",
+      "album": "Spiral Staircases",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2732957e72a77a8d26609e8f80d",
+      "spotify_url": "https://open.spotify.com/track/0WvXo8baZTYARlNuE76rlr",
+      "playlist_source": "Release Radar"
+    }
+  ]
+}
