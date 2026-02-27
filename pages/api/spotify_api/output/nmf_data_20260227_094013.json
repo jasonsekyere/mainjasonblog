@@ -1,0 +1,106 @@
+{
+  "generated_at": "2026-02-27T09:40:14.873412",
+  "track_count": 10,
+  "tracks": [
+    {
+      "id": "02rYuBEPjNLm74mN9IxH0v",
+      "name": "OLD TECHNOLOGY",
+      "artist": "Slayyyter",
+      "album": "OLD TECHNOLOGY",
+      "popularity": 51,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273e8fb4c36f512e7661065e736",
+      "spotify_url": "https://open.spotify.com/track/02rYuBEPjNLm74mN9IxH0v",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "1gjrb6iiP6KIrQnDBIqqDi",
+      "name": "How I Get",
+      "artist": "Laufey",
+      "album": "How I Get",
+      "popularity": 34,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273fd23708303dca437cde66dd7",
+      "spotify_url": "https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "6G4dGhbdRJoOWysoFPJX7O",
+      "name": "Can I Mend It?",
+      "artist": "Buck Meek",
+      "album": "Can I Mend It?",
+      "popularity": 23,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273a9bfcb07a4ddedc1d58111b4",
+      "spotify_url": "https://open.spotify.com/track/6G4dGhbdRJoOWysoFPJX7O",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "5y2ijHECwFYWqcAHKTZgzD",
+      "name": "Risk It All",
+      "artist": "Bruno Mars",
+      "album": "The Romantic",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27344976c150e1850cf4f9f1f9e",
+      "spotify_url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "7ogpGbKc4Io6NCU6ydxXwZ",
+      "name": "FEVER DREAM",
+      "artist": "Alex Warren",
+      "album": "FEVER DREAM",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2733c332d8dccc5172ad80f44a5",
+      "spotify_url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "4a0iRBZ1kNzCwKKjn925yi",
+      "name": "Just Saying Tho",
+      "artist": "Hoodrich Keem, Curren$y, Babyface Ray",
+      "album": "Just Saying Tho",
+      "popularity": 30,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27349c8b5b113912c667e17122f",
+      "spotify_url": "https://open.spotify.com/track/4a0iRBZ1kNzCwKKjn925yi",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "2H3L0xj5L4OlYFlRjhJQN5",
+      "name": "Slow Tonight",
+      "artist": "Tom Misch",
+      "album": "Slow Tonight",
+      "popularity": 21,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2739d34a57ef2f36da71d7fbc50",
+      "spotify_url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "0IeU8WorrSLKC3QiaU4Nd3",
+      "name": "Make Me Better",
+      "artist": "Rich Sinners, Skrilla",
+      "album": "Make Me Better",
+      "popularity": 18,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273920adfcb0c8ecccfb881f8d0",
+      "spotify_url": "https://open.spotify.com/track/0IeU8WorrSLKC3QiaU4Nd3",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "3b05uWuhITjVeGDcdI8pFP",
+      "name": "Percocet n' Molly",
+      "artist": "Miles Money, 1900Rugrat",
+      "album": "Percocet n' Molly",
+      "popularity": 7,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27370b69db657dfda0e87437e29",
+      "spotify_url": "https://open.spotify.com/track/3b05uWuhITjVeGDcdI8pFP",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "41xUqvQ6Ikkw3NCHFmoEYI",
+      "name": "3EEP IT 2OGETHER - feat. El Cousteau",
+      "artist": "Sideshow, El Cousteau",
+      "album": "TIGRAY FUNK",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2738d76ef150ca1cb1d45f12ab0",
+      "spotify_url": "https://open.spotify.com/track/41xUqvQ6Ikkw3NCHFmoEYI",
+      "playlist_source": "Release Radar"
+    }
+  ]
+}
