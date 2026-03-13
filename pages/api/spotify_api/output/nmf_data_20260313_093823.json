@@ -1,0 +1,106 @@
+{
+  "generated_at": "2026-03-13T09:38:25.601593",
+  "track_count": 10,
+  "tracks": [
+    {
+      "id": "4V9fJ12KcWd78OSAqYNO9r",
+      "name": "Home (feat. Hikaru Utada)",
+      "artist": "Charlie Puth, Hikaru Utada",
+      "album": "Home (feat. Hikaru Utada)",
+      "popularity": 55,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273674523e990240dc0317a82c6",
+      "spotify_url": "https://open.spotify.com/track/4V9fJ12KcWd78OSAqYNO9r",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "0AFTmRJtR1AorwJ6XlOn8I",
+      "name": "Through The Pain (feat. Pozer)",
+      "artist": "Chase & Status, Pozer",
+      "album": "Through The Pain (feat. Pozer)",
+      "popularity": 44,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2739c0ccb314b59b1c37cc25644",
+      "spotify_url": "https://open.spotify.com/track/0AFTmRJtR1AorwJ6XlOn8I",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "4ZwsQGsqUGewXIjNBXfrXr",
+      "name": "Look How Far...",
+      "artist": "Modest Mouse",
+      "album": "Look How Far...",
+      "popularity": 43,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2732dfb5731819c6caba47365f2",
+      "spotify_url": "https://open.spotify.com/track/4ZwsQGsqUGewXIjNBXfrXr",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "75GyGLjB9yFLTVltUlDVKI",
+      "name": "dirty wedding dress",
+      "artist": "Bleachers",
+      "album": "dirty wedding dress",
+      "popularity": 40,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27338b7d8f44533668ec3db1a4f",
+      "spotify_url": "https://open.spotify.com/track/75GyGLjB9yFLTVltUlDVKI",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "7K9x5koIMokVbEfg1RsT4A",
+      "name": "ThunderWave",
+      "artist": "Thundercat, WILLOW",
+      "album": "ThunderWave",
+      "popularity": 38,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2736d71371e7ceac52755972324",
+      "spotify_url": "https://open.spotify.com/track/7K9x5koIMokVbEfg1RsT4A",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "7CI5IAi2z70tyJIVXxsHfw",
+      "name": "Berghain - Remix",
+      "artist": "Conrad Taylor, ROSALÍA, Björk, Yves Tumor",
+      "album": "Berghain (Remix)",
+      "popularity": 62,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273fb535a56e6bacfb6bee0c1b4",
+      "spotify_url": "https://open.spotify.com/track/7CI5IAi2z70tyJIVXxsHfw",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "5N9qYDmKOW88VyZ3ovNHV6",
+      "name": "WE'RE BACK (feat. Lil Yachty, Draft Day, Dc2trill, Camo!, Honest)",
+      "artist": "Concrete Boys, Lil Yachty, Draft Day, Camo!, Dc2trill, Honest",
+      "album": "It's Us Vol. 2",
+      "popularity": 36,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b4ea834794d849f79785ff0f",
+      "spotify_url": "https://open.spotify.com/track/5N9qYDmKOW88VyZ3ovNHV6",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "2uCy6YxsGtjEAGwKXPbdm1",
+      "name": "arcade :'o",
+      "artist": "SamRecks",
+      "album": "arcade :'o",
+      "popularity": 13,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2735c9794c5523757669b16ed6c",
+      "spotify_url": "https://open.spotify.com/track/2uCy6YxsGtjEAGwKXPbdm1",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "4E6zWUMNvBDzH5KLXJWNPi",
+      "name": "THANK GOD",
+      "artist": "Piff Marti",
+      "album": "THANK GOD",
+      "popularity": 13,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273d1e70fb9d45129a0af27c6e4",
+      "spotify_url": "https://open.spotify.com/track/4E6zWUMNvBDzH5KLXJWNPi",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "40EVQpCnZvVW84RiG2IGMS",
+      "name": "Tired Of It",
+      "artist": "Cody Ray",
+      "album": "Tired Of It",
+      "popularity": 2,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b9a9795314640823defdd1a5",
+      "spotify_url": "https://open.spotify.com/track/40EVQpCnZvVW84RiG2IGMS",
+      "playlist_source": "Release Radar"
+    }
+  ]
+}
