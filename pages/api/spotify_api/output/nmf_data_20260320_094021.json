@@ -1,0 +1,106 @@
+{
+  "generated_at": "2026-03-20T09:40:23.422220",
+  "track_count": 10,
+  "tracks": [
+    {
+      "id": "4VdqXAgfC79LeweD9qVgVZ",
+      "name": "Miyazaki",
+      "artist": "Paris Paloma",
+      "album": "Miyazaki",
+      "popularity": 51,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273958c47031cb3be78f95a5b63",
+      "spotify_url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "2mr1Sm2SOzIhaEXyzpd6II",
+      "name": "So What",
+      "artist": "MUNA",
+      "album": "So What",
+      "popularity": 49,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2731698018abdf7282deef949d1",
+      "spotify_url": "https://open.spotify.com/track/2mr1Sm2SOzIhaEXyzpd6II",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "68lbSrXDORS51pmyjZv712",
+      "name": "SWIM",
+      "artist": "BTS",
+      "album": "ARIRANG",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273dfa17fad7f190c901603270e",
+      "spotify_url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "5LNgnMLXaoG9KRkL47KlZu",
+      "name": "Rethink Some Things",
+      "artist": "Luke Combs",
+      "album": "The Way I Am",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273e07986c3e184a30283b94d61",
+      "spotify_url": "https://open.spotify.com/track/5LNgnMLXaoG9KRkL47KlZu",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "5PspYmmQ8nKESNTcBY2LlX",
+      "name": "Click Clack Symphony. (feat. Hans Zimmer)",
+      "artist": "RAYE, Hans Zimmer",
+      "album": "Click Clack Symphony. (feat. Hans Zimmer)",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273c35881d2aa600c3d1a08dfbb",
+      "spotify_url": "https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "70jy4Y760nhyB5YzprIdyt",
+      "name": "Pint of Purple",
+      "artist": "Your Boy Posca, Boldy James",
+      "album": "Hook, Line & Sinker",
+      "popularity": 39,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b202d319cc579533084ada75",
+      "spotify_url": "https://open.spotify.com/track/70jy4Y760nhyB5YzprIdyt",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "71ltpBLrLBld54DrnS9xLo",
+      "name": "COD 45",
+      "artist": "TeeboFG",
+      "album": "COD 45",
+      "popularity": 34,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273a924cddd5c1f5fd9d80ce6b9",
+      "spotify_url": "https://open.spotify.com/track/71ltpBLrLBld54DrnS9xLo",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "3k6anb87t7yI9bcLgZqHso",
+      "name": "Price Of It All",
+      "artist": "Jorja Smith",
+      "album": "Price Of It All (Music From the Original Series \"Bait\")",
+      "popularity": 29,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27347e1fe23243d1eec5700545a",
+      "spotify_url": "https://open.spotify.com/track/3k6anb87t7yI9bcLgZqHso",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "3a9vFw5ApKMOgIhYMSaVFI",
+      "name": "Militia Bidness (feat. BabyTron)",
+      "artist": "72 Reezy, Danny G Beats, Shadow Wizard Money Gang, BabyTron",
+      "album": "Slide Or Get Slid On",
+      "popularity": 18,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2738924e53d448dafff2430492a",
+      "spotify_url": "https://open.spotify.com/track/3a9vFw5ApKMOgIhYMSaVFI",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "7e6aZfdiBs7HLnENI9zGH4",
+      "name": "Bahamas Freestyle",
+      "artist": "Ye Ali",
+      "album": "Private Suite 6",
+      "popularity": 15,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273e7dd660dceb06df3a78c258c",
+      "spotify_url": "https://open.spotify.com/track/7e6aZfdiBs7HLnENI9zGH4",
+      "playlist_source": "Release Radar"
+    }
+  ]
+}
