@@ -1,0 +1,106 @@
+{
+  "generated_at": "2026-03-27T09:54:17.222617",
+  "track_count": 10,
+  "tracks": [
+    {
+      "id": "3CZ0ba4RIVdv40FbjHpOEA",
+      "name": "idk idk",
+      "artist": "Jim Legxacy",
+      "album": "idk idk",
+      "popularity": 57,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2737494797b5555c45d84f8eda6",
+      "spotify_url": "https://open.spotify.com/track/3CZ0ba4RIVdv40FbjHpOEA",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "1V8eQfZ1zpcdA9ctIb6fY7",
+      "name": "ALL THE TIME",
+      "artist": "John Summit, The Chainsmokers, Ilsey",
+      "album": "ALL THE TIME",
+      "popularity": 57,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273d81a25fa91f9cac66eeee336",
+      "spotify_url": "https://open.spotify.com/track/1V8eQfZ1zpcdA9ctIb6fY7",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "5SHtU2P8fASB2tjdOh1jMc",
+      "name": "Carry On",
+      "artist": "Jungle",
+      "album": "Carry On",
+      "popularity": 54,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27397c2c43713e5ae2d458dabcc",
+      "spotify_url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "3SCe8EBhzxVx5Tqhv9cYqi",
+      "name": "Tractor Beam",
+      "artist": "Snail Mail",
+      "album": "Tractor Beam",
+      "popularity": 31,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273bb6214e0b7e1b5ed61bd79e9",
+      "spotify_url": "https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "0ka0xUb0kho8KMOCuuPOZJ",
+      "name": "I Know You're Hurting.",
+      "artist": "RAYE",
+      "album": "THIS MUSIC MAY CONTAIN HOPE.",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90",
+      "spotify_url": "https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "4yuubKZ6S7fqQwg7BwSkxl",
+      "name": "ABC",
+      "artist": "El Alfa, Ronny GTA",
+      "album": "ABC",
+      "popularity": 34,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273968fd7123e59f17abfd9c31d",
+      "spotify_url": "https://open.spotify.com/track/4yuubKZ6S7fqQwg7BwSkxl",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "4uMTHzKxik80Xb2s22NOmY",
+      "name": "Taking It There",
+      "artist": "Kwengface, Carns Hill, GRM Daily",
+      "album": "Taking It There",
+      "popularity": 12,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273345c73f90862e2969ad3047d",
+      "spotify_url": "https://open.spotify.com/track/4uMTHzKxik80Xb2s22NOmY",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "32PyouhKVNx8rqbj1hARh7",
+      "name": "Sex Sells",
+      "artist": "5EB",
+      "album": "Sex Sells",
+      "popularity": 9,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2738dc633d04d6ba74b9a0c3a5d",
+      "spotify_url": "https://open.spotify.com/track/32PyouhKVNx8rqbj1hARh7",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "30i9xiufAenR8UfJsmTYDC",
+      "name": "7am in Broward",
+      "artist": "Smokepurpp",
+      "album": "7am in Broward",
+      "popularity": 4,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27316d3a225963ec4bb97941552",
+      "spotify_url": "https://open.spotify.com/track/30i9xiufAenR8UfJsmTYDC",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "4QGJzWkYToU3ltC2LUKG4B",
+      "name": "SHEESH",
+      "artist": "Anfa Rose",
+      "album": "SHEESH",
+      "popularity": 3,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2738fb8ee55a51c8d5b1baa1726",
+      "spotify_url": "https://open.spotify.com/track/4QGJzWkYToU3ltC2LUKG4B",
+      "playlist_source": "Release Radar"
+    }
+  ]
+}
