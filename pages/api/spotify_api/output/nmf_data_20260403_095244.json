@@ -1,0 +1,106 @@
+{
+  "generated_at": "2026-04-03T09:52:46.513474",
+  "track_count": 10,
+  "tracks": [
+    {
+      "id": "2SjnvpedDUU0Ga69bxnoCa",
+      "name": "ALL THE LOVE (feat. Andre Troutman)",
+      "artist": "Kanye West, Ye, Andre Troutman",
+      "album": "BULLY",
+      "popularity": 86,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+      "spotify_url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "7mQcxAgdMV1Qt71tekR0DP",
+      "name": "Paperbag Boy",
+      "artist": "Trippie Redd, Young Thug",
+      "album": "Paperbag Boy",
+      "popularity": 51,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2735689e32a8e8205174c8b040a",
+      "spotify_url": "https://open.spotify.com/track/7mQcxAgdMV1Qt71tekR0DP",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "7AieCEz0Kpv2c8L63LXcWw",
+      "name": "Beams",
+      "artist": "Arlo Parks",
+      "album": "Beams",
+      "popularity": 34,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27387e5d89c1e430241ec6786c1",
+      "spotify_url": "https://open.spotify.com/track/7AieCEz0Kpv2c8L63LXcWw",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "3ytuqgUI0BNCDijjxC6jZg",
+      "name": "Reply To This",
+      "artist": "Charlie Puth",
+      "album": "Whatever's Clever! (Expanded)",
+      "popularity": 33,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273fb7dcc6287dca96c1c8eda29",
+      "spotify_url": "https://open.spotify.com/track/3ytuqgUI0BNCDijjxC6jZg",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "0yGXheydoHP4EKZpfAs9zk",
+      "name": "TIME",
+      "artist": "Sofia D'Angelo",
+      "album": "TIME",
+      "popularity": 6,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273d940db84c8c7fa2fc4c98371",
+      "spotify_url": "https://open.spotify.com/track/0yGXheydoHP4EKZpfAs9zk",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "7uGrdyEErKPSA3oiJQHxQ6",
+      "name": "THIS ONE HERE",
+      "artist": "Kanye West, Ye",
+      "album": "BULLY",
+      "popularity": 78,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+      "spotify_url": "https://open.spotify.com/track/7uGrdyEErKPSA3oiJQHxQ6",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "2ilviyc5XdaEjBtwj3iHvG",
+      "name": "CHANGE",
+      "artist": "K-Trap, G Herbo",
+      "album": "CHANGE",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b442c71ae0ff62003f5d2c7b",
+      "spotify_url": "https://open.spotify.com/track/2ilviyc5XdaEjBtwj3iHvG",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "2LIHIN3N3WK5psQzKtqfMW",
+      "name": "Loco",
+      "artist": "Key Glock",
+      "album": "Loco",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273509cf9888ce9f92d19c4c325",
+      "spotify_url": "https://open.spotify.com/track/2LIHIN3N3WK5psQzKtqfMW",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "46e0Mkj3qXXqDn1mEhDp6T",
+      "name": "20 PM Ride",
+      "artist": "Mike Shabb, Paco P",
+      "album": "20 PM Ride",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27355679262d82770cfeddc5da9",
+      "spotify_url": "https://open.spotify.com/track/46e0Mkj3qXXqDn1mEhDp6T",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "3NsqkT3XdXyXe7jilbLN2z",
+      "name": "Grandma Baby",
+      "artist": "Black Fortune, Babyfxce E, Baby Kia",
+      "album": "Grandma Baby",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273bca4f92dd1c54773bfdeac1e",
+      "spotify_url": "https://open.spotify.com/track/3NsqkT3XdXyXe7jilbLN2z",
+      "playlist_source": "Release Radar"
+    }
+  ]
+}
