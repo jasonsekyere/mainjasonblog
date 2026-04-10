@@ -1,0 +1,106 @@
+{
+  "generated_at": "2026-04-10T10:08:23.086674",
+  "track_count": 10,
+  "tracks": [
+    {
+      "id": "4dUOhTTMy4ITIbNQKPKYFP",
+      "name": "Going Shopping",
+      "artist": "The Strokes",
+      "album": "Going Shopping",
+      "popularity": 58,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2737836809a2028ffcbc20a7f9e",
+      "spotify_url": "https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "0hv6276QhpMDnVJIMxEWPH",
+      "name": "Bottom Of Your Boots",
+      "artist": "Ella Langley",
+      "album": "Dandelion",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2738606848da949bbaddf447d87",
+      "spotify_url": "https://open.spotify.com/track/0hv6276QhpMDnVJIMxEWPH",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "7BjcYqD0CqXnG45ezWSTYR",
+      "name": "Runway",
+      "artist": "Lady Gaga, Doechii",
+      "album": "Runway",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27326665aa66afb85f6c2e98000",
+      "spotify_url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "6t263UZVjI9nnHfr7eeLW4",
+      "name": "Back and Forth (feat. Missy Elliott)",
+      "artist": "Kehlani, Missy Elliott",
+      "album": "Back and Forth (feat. Missy Elliott)",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2738b7e552f354fff5d90bb55dd",
+      "spotify_url": "https://open.spotify.com/track/6t263UZVjI9nnHfr7eeLW4",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "0GuyH5MDxEx54wg1Rhe5on",
+      "name": "Mr. Know It All",
+      "artist": "Teddy Swims",
+      "album": "Mr. Know It All",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273fad38e1775bd163ae887cfb5",
+      "spotify_url": "https://open.spotify.com/track/0GuyH5MDxEx54wg1Rhe5on",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "1UerlXU830SUNZJfHsrhg7",
+      "name": "F U",
+      "artist": "El Cousteau",
+      "album": "F U",
+      "popularity": 14,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273db8cbab8a996fbc659d22f4e",
+      "spotify_url": "https://open.spotify.com/track/1UerlXU830SUNZJfHsrhg7",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "6JLGyejXhQpkFfojlvYk8f",
+      "name": "Always Us",
+      "artist": "Nana, Kota the Friend",
+      "album": "Always Us",
+      "popularity": 10,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27304c9abb36f611cbd0424e3cd",
+      "spotify_url": "https://open.spotify.com/track/6JLGyejXhQpkFfojlvYk8f",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "2CTbKnuktz79RlTFy2yYrH",
+      "name": "Graphic & Greezy",
+      "artist": "Milli Major, Scorcher, Bossman Birdie, Jme",
+      "album": "Graphic & Greezy",
+      "popularity": 8,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273686bb4b1889f73e859dcd0a8",
+      "spotify_url": "https://open.spotify.com/track/2CTbKnuktz79RlTFy2yYrH",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "0lgxvRcbVVylxN9cli3WSi",
+      "name": "PAYG",
+      "artist": "Digga",
+      "album": "PAYG",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27300c99caf58bd7979e89cfa4e",
+      "spotify_url": "https://open.spotify.com/track/0lgxvRcbVVylxN9cli3WSi",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "1J8nt6eE4WFkvK5EFCYIpK",
+      "name": "Free 40 (feat. YoungBoy Never Broke Again)",
+      "artist": "Skrilla, YoungBoy Never Broke Again",
+      "album": "Free 40 (feat. YoungBoy Never Broke Again)",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2733711d615b6b6bb1060c85313",
+      "spotify_url": "https://open.spotify.com/track/1J8nt6eE4WFkvK5EFCYIpK",
+      "playlist_source": "Release Radar"
+    }
+  ]
+}
