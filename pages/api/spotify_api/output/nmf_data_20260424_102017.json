@@ -1,0 +1,106 @@
+{
+  "generated_at": "2026-04-24T10:20:19.106658",
+  "track_count": 10,
+  "tracks": [
+    {
+      "id": "04o2ES37jkiK5Qy8PR5XLk",
+      "name": "I Feel So Free",
+      "artist": "Madonna",
+      "album": "I Feel So Free",
+      "popularity": 72,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273fa0f019bfe34ad8312f708e1",
+      "spotify_url": "https://open.spotify.com/track/04o2ES37jkiK5Qy8PR5XLk",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "6viL4eHTn5njVOxPGev6nx",
+      "name": "Kingmaker (with Julia Michaels)",
+      "artist": "Maisie Peters, Julia Michaels",
+      "album": "Kingmaker (with Julia Michaels)",
+      "popularity": 54,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273cce9367d0b95d4a398ac3d91",
+      "spotify_url": "https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "3iU2qsthCTo5EeTE03l3Si",
+      "name": "Doors",
+      "artist": "Noah Kahan",
+      "album": "The Great Divide",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273d879855b819250d3d00a1a38",
+      "spotify_url": "https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "5aVBxVa0kz9uzv0F4gwdEn",
+      "name": "I Can't Love You Anymore",
+      "artist": "Ella Langley, Morgan Wallen",
+      "album": "I Can't Love You Anymore",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273c36bd5c2c1448ffc62ab546b",
+      "spotify_url": "https://open.spotify.com/track/5aVBxVa0kz9uzv0F4gwdEn",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "1ITJflybJsfarsUtiBvkfK",
+      "name": "Shoulda Never (feat. USHER)",
+      "artist": "Kehlani, USHER",
+      "album": "Kehlani",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273d4ffe3d4cddee37b9fd6ffcd",
+      "spotify_url": "https://open.spotify.com/track/1ITJflybJsfarsUtiBvkfK",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "39tC2YIcSYKqA5kdpL5ZqP",
+      "name": "Yoppenheimer - Remix",
+      "artist": "Lelo, Joey Bada$$",
+      "album": "Yoppenheimer (Remix)",
+      "popularity": 44,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273f4d13a237c5b46ea21d05fcd",
+      "spotify_url": "https://open.spotify.com/track/39tC2YIcSYKqA5kdpL5ZqP",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "11GYxW1sLMGjiQH9cpAS5W",
+      "name": "Castellammarese War",
+      "artist": "Benny The Butcher, Fuego Base, OT The Real, Black Soprano Family",
+      "album": "Ashes In The Safe",
+      "popularity": 34,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2731b4ef21b5f9959ed7c0cedd2",
+      "spotify_url": "https://open.spotify.com/track/11GYxW1sLMGjiQH9cpAS5W",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "6ry6SA50l59MWK0g0r2qJ8",
+      "name": "fashionably late",
+      "artist": "5EB, wane",
+      "album": "fashionably late",
+      "popularity": 28,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2735fd5b0ccfc8f3ce87875e730",
+      "spotify_url": "https://open.spotify.com/track/6ry6SA50l59MWK0g0r2qJ8",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "2wAVnLYN2uA5dxagsKZz9m",
+      "name": "chanel",
+      "artist": "Chefbkay",
+      "album": "chanel",
+      "popularity": 22,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273e63bca30c5b1e0a9ad27c11d",
+      "spotify_url": "https://open.spotify.com/track/2wAVnLYN2uA5dxagsKZz9m",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "6D0Tf7UT8YF1PiClc0HXRk",
+      "name": "lose control",
+      "artist": "Fool Keal",
+      "album": "lose control",
+      "popularity": 8,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2739ec8705eb4c0984516d2b694",
+      "spotify_url": "https://open.spotify.com/track/6D0Tf7UT8YF1PiClc0HXRk",
+      "playlist_source": "Release Radar"
+    }
+  ]
+}
