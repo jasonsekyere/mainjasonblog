@@ -1,0 +1,106 @@
+{
+  "generated_at": "2026-05-01T10:22:42.917930",
+  "track_count": 10,
+  "tracks": [
+    {
+      "id": "35po0dhj4pRkbVDeooNVBW",
+      "name": "Staying Still",
+      "artist": "Noah Kahan",
+      "album": "The Great Divide: The Last Of The Bugs",
+      "popularity": 80,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273c39789e2dbdad5af5736e07a",
+      "spotify_url": "https://open.spotify.com/track/35po0dhj4pRkbVDeooNVBW",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "6Or4gNQC2EkixDGiufQ3F4",
+      "name": "Promise?",
+      "artist": "Bella Kay",
+      "album": "Promise?",
+      "popularity": 69,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2730c64b2c0501d50ae98917f36",
+      "spotify_url": "https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "7uADhlog5IlihImt0ypJq6",
+      "name": "IT'S OK",
+      "artist": "Bryson Tiller",
+      "album": "IT'S OK",
+      "popularity": 54,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273790ade124d034b6a64c2a8d0",
+      "spotify_url": "https://open.spotify.com/track/7uADhlog5IlihImt0ypJq6",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "1Ap75Wv20tVqTA8cAJXqq3",
+      "name": "Song for the Messenger",
+      "artist": "Chanel Beads",
+      "album": "Song for the Messenger",
+      "popularity": 31,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2737bbd0d0b594ca7cef339b35e",
+      "spotify_url": "https://open.spotify.com/track/1Ap75Wv20tVqTA8cAJXqq3",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "06v2x2dttlLFyF2JaBROpF",
+      "name": "i'm not joking",
+      "artist": "Bleachers",
+      "album": "i'm not joking",
+      "popularity": 22,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273bb6c02c9b25efac2052702cf",
+      "spotify_url": "https://open.spotify.com/track/06v2x2dttlLFyF2JaBROpF",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "1it6w7qVrXo10od5OMjn7H",
+      "name": "Bottles & Lights",
+      "artist": "Chxrry, Mariah the Scientist",
+      "album": "Bottles & Lights",
+      "popularity": 53,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27320726805f9cbd758d49631e8",
+      "spotify_url": "https://open.spotify.com/track/1it6w7qVrXo10od5OMjn7H",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "0vOSCwr3CqjRY4CMXOcNOT",
+      "name": "The Coin Toss",
+      "artist": "Curren$y, Wiz Khalifa, Harry Fraud",
+      "album": "Roofless Records For Drop Tops: Disc 2",
+      "popularity": 47,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2739ac26ec4a8d8358c76824d03",
+      "spotify_url": "https://open.spotify.com/track/0vOSCwr3CqjRY4CMXOcNOT",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "4X3lqMLPFQiOMiwuIHGX16",
+      "name": "Smoke N' Pray",
+      "artist": "Curren$y, Wiz Khalifa, Harry Fraud",
+      "album": "Roofless Records For Drop Tops: Disc 2",
+      "popularity": 46,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2739ac26ec4a8d8358c76824d03",
+      "spotify_url": "https://open.spotify.com/track/4X3lqMLPFQiOMiwuIHGX16",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "5VbF0iuRSTrJLjIlhk9UrX",
+      "name": "Prosperity Gospel",
+      "artist": "Budgie, The Alchemist, Knucks",
+      "album": "Prosperity Gospel",
+      "popularity": 45,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2733c976ac192d855c629c65351",
+      "spotify_url": "https://open.spotify.com/track/5VbF0iuRSTrJLjIlhk9UrX",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "2HUQY3BHwWenKC2wt4EYZb",
+      "name": "La-La-La (Excuse Me Again)",
+      "artist": "JAŸ-Z",
+      "album": "La-La-La (Excuse Me Again)",
+      "popularity": 43,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2731d40a346ea306e9c4ccb60d4",
+      "spotify_url": "https://open.spotify.com/track/2HUQY3BHwWenKC2wt4EYZb",
+      "playlist_source": "Release Radar"
+    }
+  ]
+}
