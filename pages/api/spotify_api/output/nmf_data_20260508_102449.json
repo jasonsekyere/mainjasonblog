@@ -1,0 +1,106 @@
+{
+  "generated_at": "2026-05-08T10:24:51.138264",
+  "track_count": 10,
+  "tracks": [
+    {
+      "id": "7diH1qnFziArYzynk3vkr6",
+      "name": "TNT",
+      "artist": "CORTIS",
+      "album": "GREENGREEN",
+      "popularity": 72,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2737a702a4c3a18c1439fdc29ff",
+      "spotify_url": "https://open.spotify.com/track/7diH1qnFziArYzynk3vkr6",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "6PkObLfJ4c0BfXQXuJmu91",
+      "name": "In The Stars",
+      "artist": "The Rolling Stones",
+      "album": "In The Stars",
+      "popularity": 54,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273ce029930e121e2884a5c1d43",
+      "spotify_url": "https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "1EljD71jwrLB0a3NGJqsJf",
+      "name": "linknb",
+      "artist": "Kelela",
+      "album": "linknb",
+      "popularity": 45,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27352bf40deb7c02ca8686ca4ba",
+      "spotify_url": "https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "4FNptC8qbW6cAJBsymtHMI",
+      "name": "Promise (When You Go)",
+      "artist": "After",
+      "album": "Promise (When You Go)",
+      "popularity": 18,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273e130aef3b7de05a160281d31",
+      "spotify_url": "https://open.spotify.com/track/4FNptC8qbW6cAJBsymtHMI",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "3cWQRSutAjP6PY3kPzgi2b",
+      "name": "Rock Music",
+      "artist": "Charli xcx",
+      "album": "Rock Music",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b7bc469a85354ff1ae7a1386",
+      "spotify_url": "https://open.spotify.com/track/3cWQRSutAjP6PY3kPzgi2b",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "71ziqZUTX40nwZWrlBjJ5q",
+      "name": "GEEKIN (feat. Lil Yachty)",
+      "artist": "Nemzzz, Lil Yachty",
+      "album": "GEEKIN (feat. Lil Yachty)",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b6f0af0fa8304915c726b7ca",
+      "spotify_url": "https://open.spotify.com/track/71ziqZUTX40nwZWrlBjJ5q",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "5PIuvDE7aPqCBeU9DLP6X0",
+      "name": "Double Tap",
+      "artist": "Digga",
+      "album": "Double Tap",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27300d3996bca4362ca5f03f065",
+      "spotify_url": "https://open.spotify.com/track/5PIuvDE7aPqCBeU9DLP6X0",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "160MxLeneesHJlfptjX0Ia",
+      "name": "Vibe Responsibly (feat. Isaiah Rashad)",
+      "artist": "Ray Vaughn, Isaiah Rashad",
+      "album": "Vibe Responsibly (feat. Isaiah Rashad)",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b5239423157308d38ce32019",
+      "spotify_url": "https://open.spotify.com/track/160MxLeneesHJlfptjX0Ia",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "7wxT1CkqG6JrPzEfFza5vL",
+      "name": "Surprise",
+      "artist": "AZ, Nas, Mike & Keys",
+      "album": "Doe Or Die III",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273db56b5e6c22480ac8a202d24",
+      "spotify_url": "https://open.spotify.com/track/7wxT1CkqG6JrPzEfFza5vL",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "7thAwwD9QsymtOrmCWSNdr",
+      "name": "Living Too Fast",
+      "artist": "Casey Veggies, Wiz Khalifa",
+      "album": "Living Too Fast",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273ac1a46b0c503bd44c06af1ce",
+      "spotify_url": "https://open.spotify.com/track/7thAwwD9QsymtOrmCWSNdr",
+      "playlist_source": "Release Radar"
+    }
+  ]
+}
