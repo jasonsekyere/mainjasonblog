@@ -1,0 +1,106 @@
+{
+  "generated_at": "2026-05-15T11:21:28.237878",
+  "track_count": 10,
+  "tracks": [
+    {
+      "id": "4c0l2xJLaY8PBS7yi37Ry3",
+      "name": "Already",
+      "artist": "BNXN, Sarz",
+      "album": "The Game Needs Us",
+      "popularity": 66,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27315627bb27890844f0f8d88ac",
+      "spotify_url": "https://open.spotify.com/track/4c0l2xJLaY8PBS7yi37Ry3",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "0xCRp9lVz8jrq7G9syKlYL",
+      "name": "girl next door",
+      "artist": "mgk, Wiz Khalifa",
+      "album": "girl next door",
+      "popularity": 61,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273c19c55c5995f77973a28e51c",
+      "spotify_url": "https://open.spotify.com/track/0xCRp9lVz8jrq7G9syKlYL",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "4ZxlsIHhSxQkbwKTZ76xu0",
+      "name": "Falling out of Love",
+      "artist": "The Strokes",
+      "album": "Falling out of Love",
+      "popularity": 57,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27332d2e4ea270d587bc76e1752",
+      "spotify_url": "https://open.spotify.com/track/4ZxlsIHhSxQkbwKTZ76xu0",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "6rYyqOyyw9bgugmqUaoehR",
+      "name": "I’m your girl right?",
+      "artist": "Tove Lo",
+      "album": "I’m your girl right?",
+      "popularity": 49,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273837f252a08a4ab05d5bd1948",
+      "spotify_url": "https://open.spotify.com/track/6rYyqOyyw9bgugmqUaoehR",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "45k8qYkYZJ87ckRq3O3fVj",
+      "name": "Like It",
+      "artist": "ANOTR, 3DDY",
+      "album": "Like It",
+      "popularity": 44,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27319b7a312676a0a0fe9a6d39e",
+      "spotify_url": "https://open.spotify.com/track/45k8qYkYZJ87ckRq3O3fVj",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "7DHS2ac4HjmfLUjo9hbva9",
+      "name": "TEST ME (feat. JID)",
+      "artist": "Kenny Mason, JID",
+      "album": "BULLDAWG",
+      "popularity": 47,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273004cee1bd1f5e2c6adc8b7e8",
+      "spotify_url": "https://open.spotify.com/track/7DHS2ac4HjmfLUjo9hbva9",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "4zgxXsoygNRhbZRLWb0DsC",
+      "name": "EXPERIMENTAL RAP (BLACK CROSS+)",
+      "artist": "Sideshow",
+      "album": "EXPERIMENTAL RAP (BLACK CROSS+)",
+      "popularity": 31,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2731422a8029bbfe3efe7f84e93",
+      "spotify_url": "https://open.spotify.com/track/4zgxXsoygNRhbZRLWb0DsC",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "5GVQd2yGi1BAYWF4tfY5kE",
+      "name": "MY NAME IS MY NAME - ChopNotSlop Remix",
+      "artist": "Knucks, DJ Candlestick, OG Ron C",
+      "album": "A Fine African Man (ChopNotSlop)",
+      "popularity": 19,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273368833a99c20ddf696a2a8f0",
+      "spotify_url": "https://open.spotify.com/track/5GVQd2yGi1BAYWF4tfY5kE",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "7e6B3jRS4u0RmRCK6zDKgU",
+      "name": "OTR Freestyle - On The Radar",
+      "artist": "On The Radar, Jozzu",
+      "album": "OTR Freestyle - On The Radar",
+      "popularity": 14,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27339ee4d60e2384873154f22bc",
+      "spotify_url": "https://open.spotify.com/track/7e6B3jRS4u0RmRCK6zDKgU",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "3LZeT8JO6gGfOsjjo8AjYf",
+      "name": "Whats My Name",
+      "artist": "Kwengface",
+      "album": "Whats My Name",
+      "popularity": 8,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273a4a4bd70d7938c175e2bbef3",
+      "spotify_url": "https://open.spotify.com/track/3LZeT8JO6gGfOsjjo8AjYf",
+      "playlist_source": "Release Radar"
+    }
+  ]
+}
