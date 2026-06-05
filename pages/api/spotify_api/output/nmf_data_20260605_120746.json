@@ -1,0 +1,106 @@
+{
+  "generated_at": "2026-06-05T12:07:48.195983",
+  "track_count": 10,
+  "tracks": [
+    {
+      "id": "1dKUibfoGwiApjEYJhB9R2",
+      "name": "High Hopes 3000",
+      "artist": "ROLE MODEL",
+      "album": "High Hopes 3000",
+      "popularity": 59,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2730b0cfb2fb43614d2ed8f34af",
+      "spotify_url": "https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "2Dh62ulfuwM2lOWPy4TLEb",
+      "name": "Cotton",
+      "artist": "Vince Staples",
+      "album": "Cotton",
+      "popularity": 52,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27361796c8a96db3d3a1497fbd6",
+      "spotify_url": "https://open.spotify.com/track/2Dh62ulfuwM2lOWPy4TLEb",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "3iVIWU9iGw8bJ8x2mfwXnI",
+      "name": "point blank",
+      "artist": "Kelela",
+      "album": "point blank",
+      "popularity": 52,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273884bd0245c95ec5aab87a934",
+      "spotify_url": "https://open.spotify.com/track/3iVIWU9iGw8bJ8x2mfwXnI",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "4hMsWFknk0f46OLEiQOG6u",
+      "name": "Stone Over Water",
+      "artist": "Death Cab for Cutie",
+      "album": "Stone Over Water",
+      "popularity": 46,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273a4b02d7c906df2d475da9f63",
+      "spotify_url": "https://open.spotify.com/track/4hMsWFknk0f46OLEiQOG6u",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "5cSMck5t5uWKs0VH0ORtSB",
+      "name": "We Might as Well Be Strangers (ft. Wednesday)",
+      "artist": "Weezer, Wednesday",
+      "album": "We Might as Well Be Strangers (ft. Wednesday)",
+      "popularity": 45,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2730be828814740ee36e77da12c",
+      "spotify_url": "https://open.spotify.com/track/5cSMck5t5uWKs0VH0ORtSB",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "6b1Ub3FXQ0uN4khZKrKCDu",
+      "name": "Chippie",
+      "artist": "Aya Nakamura, Skepta",
+      "album": "Destinée Supremacy",
+      "popularity": 48,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2732f694bf86d4a7975d6c2bdc4",
+      "spotify_url": "https://open.spotify.com/track/6b1Ub3FXQ0uN4khZKrKCDu",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "2vXGZaNPMp1GXM38uahcmP",
+      "name": "Don't Play At All",
+      "artist": "Peysoh, The Game",
+      "album": "BastardChild",
+      "popularity": 37,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27361580ada58713a2e28ff1a8b",
+      "spotify_url": "https://open.spotify.com/track/2vXGZaNPMp1GXM38uahcmP",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "5Bxxp1dWac7F4sOI3jK0OG",
+      "name": "Round The Block",
+      "artist": "49th & Main, Jane",
+      "album": "Round The Block",
+      "popularity": 31,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2731d2deb5651f2bada2a8ff76a",
+      "spotify_url": "https://open.spotify.com/track/5Bxxp1dWac7F4sOI3jK0OG",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "60tFSaEmrkFdcLybqHhzev",
+      "name": "Me Tripea",
+      "artist": "Papera, Lomiiel",
+      "album": "Me Tripea",
+      "popularity": 31,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2731cfebf50289ec7e40eb0c560",
+      "spotify_url": "https://open.spotify.com/track/60tFSaEmrkFdcLybqHhzev",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "3hBL54skyuKOB88zmke07s",
+      "name": "Mesh",
+      "artist": "Akeem Ali",
+      "album": "Mesh",
+      "popularity": 30,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273be07fa4d27173467b237ef01",
+      "spotify_url": "https://open.spotify.com/track/3hBL54skyuKOB88zmke07s",
+      "playlist_source": "Release Radar"
+    }
+  ]
+}
