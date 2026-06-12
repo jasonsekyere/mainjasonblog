@@ -1,0 +1,106 @@
+{
+  "generated_at": "2026-06-12T12:18:09.527164",
+  "track_count": 10,
+  "tracks": [
+    {
+      "id": "46qZ2dq0jsXHtwsLaI9tl1",
+      "name": "GEMINI SEASON",
+      "artist": "Kanye West, Ye",
+      "album": "GEMINI SEASON",
+      "popularity": 66,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2734864b69b7aff79e082e62233",
+      "spotify_url": "https://open.spotify.com/track/46qZ2dq0jsXHtwsLaI9tl1",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "0xPCZvjwl2myKKPhw4Rqhj",
+      "name": "See Out Loud",
+      "artist": "Interpol",
+      "album": "This Mirror Weighs a Ton/See Out Loud",
+      "popularity": 51,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273a6736211326f7a21dbb9fdb4",
+      "spotify_url": "https://open.spotify.com/track/0xPCZvjwl2myKKPhw4Rqhj",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "6kNcp1ZJPtDPbzJ6nuaKvx",
+      "name": "Better Man",
+      "artist": "Slow Pulp",
+      "album": "Better Man",
+      "popularity": 36,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2733eec16dc383167eeb4eb1b03",
+      "spotify_url": "https://open.spotify.com/track/6kNcp1ZJPtDPbzJ6nuaKvx",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "0x4hqWguXOxlO1sEwVXB7V",
+      "name": "Manhattan",
+      "artist": "Carlita, SOFI TUKKER",
+      "album": "Manhattan",
+      "popularity": 35,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2735ffe20dbddc10a8911ea2473",
+      "spotify_url": "https://open.spotify.com/track/0x4hqWguXOxlO1sEwVXB7V",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "1loKcR8dIFxjGwKUo1Gv1Q",
+      "name": "Arteries",
+      "artist": "hey, nothing",
+      "album": "Arteries",
+      "popularity": 28,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27300cc514f5f928689c41db831",
+      "spotify_url": "https://open.spotify.com/track/1loKcR8dIFxjGwKUo1Gv1Q",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "5tjMNGX2VF3bZ3xYqin3em",
+      "name": "The Machinist",
+      "artist": "Larry June",
+      "album": "The Machinist",
+      "popularity": 49,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273cf148afd373cd5d86118ec63",
+      "spotify_url": "https://open.spotify.com/track/5tjMNGX2VF3bZ3xYqin3em",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "2xs9FiNhf8jckNGHCeV0UI",
+      "name": "Pissed Me Off",
+      "artist": "1900Rugrat",
+      "album": "Pissed Me Off",
+      "popularity": 42,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273f5c87125f90690cd8de510b8",
+      "spotify_url": "https://open.spotify.com/track/2xs9FiNhf8jckNGHCeV0UI",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "0bfkIHBscyTVBeZXoPTHix",
+      "name": "Lowriding",
+      "artist": "Mr. White Dogg, G Perico, DoggyStyleeee, Dough Boy",
+      "album": "Lowriding",
+      "popularity": 35,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2735e98e59cc09f04c77717d7b6",
+      "spotify_url": "https://open.spotify.com/track/0bfkIHBscyTVBeZXoPTHix",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "1L6Eqab4UQQLyHU2FyGkic",
+      "name": "BUSSIN",
+      "artist": "Matt OX",
+      "album": "BUSSIN",
+      "popularity": 26,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273919384fbf8a6fd3f36e901d5",
+      "spotify_url": "https://open.spotify.com/track/1L6Eqab4UQQLyHU2FyGkic",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "0my8ULXLxWcvGFVuQJg2bv",
+      "name": "Out The Way",
+      "artist": "trevan, BIGBABYGUCCI, Kid Filthy",
+      "album": "Out The Way",
+      "popularity": 25,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273a20d85ac682440dd28023c65",
+      "spotify_url": "https://open.spotify.com/track/0my8ULXLxWcvGFVuQJg2bv",
+      "playlist_source": "Release Radar"
+    }
+  ]
+}
