@@ -1,0 +1,56 @@
+{
+  "generated_at": "2026-06-19T12:45:55.634362",
+  "track_count": 5,
+  "tracks": [
+    {
+      "id": "0jlOdZleCUed8nv4LcLjjU",
+      "name": "outta time",
+      "artist": "Kelela, A. K. Paul",
+      "album": "outta time",
+      "popularity": 46,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2738bc067587bcccc936a0d042f",
+      "spotify_url": "https://open.spotify.com/track/0jlOdZleCUed8nv4LcLjjU",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "2DjiUfyKFUjR93c28MBX5m",
+      "name": "Just Like You",
+      "artist": "Jensen McRae",
+      "album": "Just Like You",
+      "popularity": 40,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27340d0d40dff7dd4c240f135fc",
+      "spotify_url": "https://open.spotify.com/track/2DjiUfyKFUjR93c28MBX5m",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "1lfoj5wpj5GYGDse0rh453",
+      "name": "Heaven",
+      "artist": "Myles Smith",
+      "album": "Heaven",
+      "popularity": 36,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27398925bafac3e31915d30d776",
+      "spotify_url": "https://open.spotify.com/track/1lfoj5wpj5GYGDse0rh453",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "3LBZWdxMKp0dHCbaRJB82d",
+      "name": "IS IT LOVE",
+      "artist": "Tyla",
+      "album": "IS IT LOVE",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273e17a40a4bfbf1b66c4919f18",
+      "spotify_url": "https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "2LVWUtmRJR7vVrbmKovmbB",
+      "name": "FACE DOWN",
+      "artist": "Key Glock",
+      "album": "PROJECT X",
+      "popularity": 0,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2737a2010f985b1bd615fe3f0f1",
+      "spotify_url": "https://open.spotify.com/track/2LVWUtmRJR7vVrbmKovmbB",
+      "playlist_source": "New Music Friday"
+    }
+  ]
+}
