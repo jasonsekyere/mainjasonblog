@@ -1,0 +1,106 @@
+{
+  "generated_at": "2026-06-26T11:44:32.471864",
+  "track_count": 10,
+  "tracks": [
+    {
+      "id": "5UNo2nitxVTkBA9QYmnHJx",
+      "name": "OK (feat. Don Toliver)",
+      "artist": "Kanye West, Ye, Don Toliver",
+      "album": "BULLY - DELUXE",
+      "popularity": 75,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273c5b4082a6636bb067532b484",
+      "spotify_url": "https://open.spotify.com/track/5UNo2nitxVTkBA9QYmnHJx",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "6wNGHSpLlHc5N89We4OOKG",
+      "name": "THAT GUY",
+      "artist": "Tyler, The Creator",
+      "album": "THAT GUY",
+      "popularity": 66,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273ae9e3266fc859c4b2266b3b3",
+      "spotify_url": "https://open.spotify.com/track/6wNGHSpLlHc5N89We4OOKG",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "3CnEw0mRAXVlLw36iL0mbe",
+      "name": "Sun Has Set",
+      "artist": "beabadoobee",
+      "album": "Sun Has Set",
+      "popularity": 57,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2736f3307b2ee6c3131410efdc7",
+      "spotify_url": "https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "1OSzjOgzbkNP8ti6444vBv",
+      "name": "What You Want",
+      "artist": "Vincent Mason",
+      "album": "What You Want",
+      "popularity": 21,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273d619f935ee651849da9ee74b",
+      "spotify_url": "https://open.spotify.com/track/1OSzjOgzbkNP8ti6444vBv",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "287y8enXKYqxjJs5LzVQVZ",
+      "name": "MANE",
+      "artist": "GloRilla, Pooh Shiesty",
+      "album": "MANE",
+      "popularity": 15,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273388093080fb8159d1518f8f2",
+      "spotify_url": "https://open.spotify.com/track/287y8enXKYqxjJs5LzVQVZ",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "6ImNhLq3RabOnEHfoRdvd4",
+      "name": "I CAN’T WAIT (feat. Ms. Lauryn Hill)",
+      "artist": "Kanye West, Ye, Ms. Lauryn Hill",
+      "album": "BULLY - DELUXE",
+      "popularity": 70,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273c5b4082a6636bb067532b484",
+      "spotify_url": "https://open.spotify.com/track/6ImNhLq3RabOnEHfoRdvd4",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "1GfEpihzfbV6HFt21JA1dz",
+      "name": "Hummer",
+      "artist": "Tame Impala",
+      "album": "Hummer",
+      "popularity": 60,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27301101c2792afad3a0aa99bc3",
+      "spotify_url": "https://open.spotify.com/track/1GfEpihzfbV6HFt21JA1dz",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "6If50OCdWl3BcAbQpnFiz1",
+      "name": "Like Father Like Daughter (feat. Cali Dream)",
+      "artist": "The Game, Cool & Dre, Travis Barker, Cali Dream",
+      "album": "Like Father Like Daughter (feat. Cali Dream)",
+      "popularity": 42,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27388cfea7a8cb68afe93a67dda",
+      "spotify_url": "https://open.spotify.com/track/6If50OCdWl3BcAbQpnFiz1",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "42Z4fpSLbtqLMpV6nW6dtF",
+      "name": "A Million And One Questions - Extended Version",
+      "artist": "JAŸ-Z",
+      "album": "A Million And One Questions",
+      "popularity": 42,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27328faf38e762fde6c47b17a39",
+      "spotify_url": "https://open.spotify.com/track/42Z4fpSLbtqLMpV6nW6dtF",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "1U41sMIC7lDrfoUEZc700T",
+      "name": "Out the Window",
+      "artist": "Taco Shop Trips, G Perico",
+      "album": "Out the Window",
+      "popularity": 31,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273ad50c885b02c582e214c4144",
+      "spotify_url": "https://open.spotify.com/track/1U41sMIC7lDrfoUEZc700T",
+      "playlist_source": "Release Radar"
+    }
+  ]
+}
