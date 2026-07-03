@@ -1,0 +1,106 @@
+{
+  "generated_at": "2026-07-03T11:31:32.486788",
+  "track_count": 10,
+  "tracks": [
+    {
+      "id": "3l4jOaTbrXb71JnpXxAUyv",
+      "name": "THE CINEMA",
+      "artist": "Erin LeCount",
+      "album": "PAREIDOLIA",
+      "popularity": 48,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27358197feaf339f87e3a448f94",
+      "spotify_url": "https://open.spotify.com/track/3l4jOaTbrXb71JnpXxAUyv",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "2tKgNrygongIZ3Ava9xW0x",
+      "name": "NERVOUS",
+      "artist": "DESTIN CONRAD",
+      "album": "NERVOUS",
+      "popularity": 42,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273bea619fca34cb135ed237ec7",
+      "spotify_url": "https://open.spotify.com/track/2tKgNrygongIZ3Ava9xW0x",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "6ZD1BmXJAUKR301UGCor5e",
+      "name": "Come On",
+      "artist": "Yana",
+      "album": "Come On",
+      "popularity": 41,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2733882b20537fe3b2f542917da",
+      "spotify_url": "https://open.spotify.com/track/6ZD1BmXJAUKR301UGCor5e",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "6pm3uGXbayVwzkBlYA0PgQ",
+      "name": "junebug!",
+      "artist": "GAYLE",
+      "album": "junebug!",
+      "popularity": 29,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2735cf12de8ba2e7e403abbe999",
+      "spotify_url": "https://open.spotify.com/track/6pm3uGXbayVwzkBlYA0PgQ",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "3ksychRhiWmZgGjIxtzKix",
+      "name": "Sweet n’ Sour",
+      "artist": "Fana Hues",
+      "album": "Sweet n’ Sour",
+      "popularity": 20,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27314eb42954e9bd5f7dd5b3c82",
+      "spotify_url": "https://open.spotify.com/track/3ksychRhiWmZgGjIxtzKix",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "4vJaNTSA8fYLLLSauHmkLe",
+      "name": "Las mas bonitas son p#tas",
+      "artist": "Anuel AA",
+      "album": "Las mas bonitas son p#tas",
+      "popularity": 76,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273c2c4ebb82fba77deba3d6f02",
+      "spotify_url": "https://open.spotify.com/track/4vJaNTSA8fYLLLSauHmkLe",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "53bcpHzJ77gVed05RcQ3e2",
+      "name": "Waiting on the Right Time",
+      "artist": "Thee Sacred Souls, Victor Axelrod",
+      "album": "Waiting on the Right Time",
+      "popularity": 43,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27329b8ae89525322be68054bf4",
+      "spotify_url": "https://open.spotify.com/track/53bcpHzJ77gVed05RcQ3e2",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "3YfYZ4Ssc5QbLQJzIZWIdc",
+      "name": "NEYMAR",
+      "artist": "Elijah Aike",
+      "album": "NEYMAR",
+      "popularity": 36,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27317396d6116cd925902886939",
+      "spotify_url": "https://open.spotify.com/track/3YfYZ4Ssc5QbLQJzIZWIdc",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "2w506gm1anuCes4phbCaMP",
+      "name": "Changes Rising",
+      "artist": "FKJ",
+      "album": "Changes Rising",
+      "popularity": 36,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27378fc85bbc6c571311ab352ee",
+      "spotify_url": "https://open.spotify.com/track/2w506gm1anuCes4phbCaMP",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "0SRNkniakIBS4TWmWhfCR1",
+      "name": "WHAT'S YOUR INFO",
+      "artist": "Kalan.FrFr, Wallie the Sensei",
+      "album": "WHAT'S YOUR INFO",
+      "popularity": 34,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273f70c3e328c4959dba3204dbf",
+      "spotify_url": "https://open.spotify.com/track/0SRNkniakIBS4TWmWhfCR1",
+      "playlist_source": "Release Radar"
+    }
+  ]
+}
