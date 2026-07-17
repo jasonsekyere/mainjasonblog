@@ -1,0 +1,106 @@
+{
+  "generated_at": "2026-07-17T10:46:04.135873",
+  "track_count": 10,
+  "tracks": [
+    {
+      "id": "243hKd6kjvVuFBWLzgK35P",
+      "name": "i deserve better.",
+      "artist": "Bella Kay",
+      "album": "My Reckless Abandon",
+      "popularity": 66,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2739596fe56f6e29ff9d519ac08",
+      "spotify_url": "https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "551ynJcmHdcUt4u28iE2sy",
+      "name": "Switchblade",
+      "artist": "beabadoobee",
+      "album": "Switchblade",
+      "popularity": 59,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273efd6923be28f035a6a7fe24d",
+      "spotify_url": "https://open.spotify.com/track/551ynJcmHdcUt4u28iE2sy",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "415xhtL862VVvSiKWuS2SW",
+      "name": "Easy Street",
+      "artist": "Queens of the Stone Age",
+      "album": "Easy Street",
+      "popularity": 56,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273f3bdaaef696c8fa94f38d6b1",
+      "spotify_url": "https://open.spotify.com/track/415xhtL862VVvSiKWuS2SW",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "5784KrKKqX0AVijoYlP3LU",
+      "name": "Take Me to Sunrise",
+      "artist": "After",
+      "album": "Take Me to Sunrise",
+      "popularity": 31,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273d2e6835b9fb2be301b49307d",
+      "spotify_url": "https://open.spotify.com/track/5784KrKKqX0AVijoYlP3LU",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "3McAxogdq7Hu0JCGTSE3EB",
+      "name": "Take Me Home",
+      "artist": "Francis Mercier, Wyclef Jean, Kah-Lo",
+      "album": "Lakay (Home)",
+      "popularity": 30,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273fd76a8b717a9d21e9576da7f",
+      "spotify_url": "https://open.spotify.com/track/3McAxogdq7Hu0JCGTSE3EB",
+      "playlist_source": "New Music Friday"
+    },
+    {
+      "id": "7FO0RcIfNFEcaTTZU4hRwl",
+      "name": "Glory",
+      "artist": "JAŸ-Z, Blue Ivy Carter",
+      "album": "Glory",
+      "popularity": 58,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273fdc16c68caa9ea0453a802a3",
+      "spotify_url": "https://open.spotify.com/track/7FO0RcIfNFEcaTTZU4hRwl",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "2EdYThKwtvhL31D2B2i54A",
+      "name": "COME HERE",
+      "artist": "Doe Boy",
+      "album": "COME HERE",
+      "popularity": 34,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2735460ac32e9da319baf32084e",
+      "spotify_url": "https://open.spotify.com/track/2EdYThKwtvhL31D2B2i54A",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "3IrKRKxOZoxmfPPSQRoW7s",
+      "name": "Midnight Club",
+      "artist": "Will Hill , Trauma Tone, MadeinTYO",
+      "album": "Bending Corners",
+      "popularity": 6,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2737be6b27e793dc05732ec76b2",
+      "spotify_url": "https://open.spotify.com/track/3IrKRKxOZoxmfPPSQRoW7s",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "1QOhnR8Pt71nSXj9vuUuhX",
+      "name": "Can't Let My City Down",
+      "artist": "Albee Al, Joey Bada$$",
+      "album": "Thug's Motivation",
+      "popularity": 5,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273c90ffead58b6c4cd87a05b2e",
+      "spotify_url": "https://open.spotify.com/track/1QOhnR8Pt71nSXj9vuUuhX",
+      "playlist_source": "Release Radar"
+    },
+    {
+      "id": "3Hf5fp9Ed1agfHKvftEMgE",
+      "name": "TOO GONE",
+      "artist": "EmanuelDaProphet, Ryan Trey",
+      "album": "TOO GONE",
+      "popularity": 3,
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27397621ae6374e749370faf008",
+      "spotify_url": "https://open.spotify.com/track/3Hf5fp9Ed1agfHKvftEMgE",
+      "playlist_source": "Release Radar"
+    }
+  ]
+}
